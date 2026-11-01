@@ -1,0 +1,244 @@
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum AnimeType {
+  TV
+  MOVIE
+  OVA
+  ONA
+  SPECIAL
+  UNKNOWN
+}
+
+enum AnimeStatus {
+  FINISHED
+  RELEASING
+  NOT_YET_RELEASED
+  CANCELLED
+  UNKNOWN
+}
+
+enum RequestStatus {
+  PENDING
+  APPROVED
+  REJECTED
+  COMPLETED
+}
+
+enum ChannelType {
+  PUBLIC
+  PRIVATE
+}
+
+enum ContentStatus {
+  ACTIVE
+  INACTIVE
+}
+
+model Anime {
+  id              String      @id @default(cuid())
+  anilistId       Int?        @unique
+
+  title           String
+  originalTitle   String?
+  description     String?     @db.Text
+  posterUrl       String?
+  bannerUrl       String?
+  year            Int?
+  type            AnimeType   @default(UNKNOWN)
+  status          AnimeStatus @default(UNKNOWN)
+
+  aliases         AnimeAlias[]
+  seasons         Season[]
+  genres          AnimeGenre[]
+  characters      AnimeCharacterRelation[]
+  contentLinks    ContentLink[]
+  requests        AnimeRequest[]
+
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+
+  @@index([title])
+  @@index([year])
+}
+
+model AnimeAlias {
+  id          String @id @default(cuid())
+  animeId     String
+  value       String
+  normalized  String
+
+  anime       Anime  @relation(fields: [animeId], references: [id], onDelete: Cascade)
+
+  @@unique([animeId, normalized])
+  @@index([normalized])
+}
+
+model Season {
+  id          String   @id @default(cuid())
+  animeId     String
+  number      Int
+  title       String?
+  description String?
+
+  anime       Anime    @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  episodes    Episode[]
+  contentLinks ContentLink[]
+
+  @@unique([animeId, number])
+}
+
+model Episode {
+  id          String   @id @default(cuid())
+  seasonId    String
+  number      Int
+  title       String?
+  description String?
+  duration    Int?
+
+  season      Season   @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+  contentLinks ContentLink[]
+
+  @@unique([seasonId, number])
+}
+
+model Genre {
+  id      String       @id @default(cuid())
+  name    String       @unique
+  animes  AnimeGenre[]
+}
+
+model AnimeGenre {
+  animeId String
+  genreId String
+
+  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  genre   Genre @relation(fields: [genreId], references: [id], onDelete: Cascade)
+
+  @@id([animeId, genreId])
+}
+
+model Character {
+  id          String @id @default(cuid())
+  anilistId   Int?   @unique
+  name        String
+  imageUrl    String?
+
+  animes      AnimeCharacterRelation[]
+}
+
+model AnimeCharacterRelation {
+  animeId     String
+  characterId String
+  role        String?
+
+  anime       Anime     @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  character   Character @relation(fields: [characterId], references: [id], onDelete: Cascade)
+
+  @@id([animeId, characterId])
+}
+
+model TelegramChannel {
+  id              String      @id @default(cuid())
+  telegramChatId  BigInt      @unique
+  title           String
+  username        String?
+  type            ChannelType
+  inviteUrl       String?
+  isActive        Boolean     @default(true)
+
+  posts           TelegramPost[]
+
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+}
+
+model TelegramPost {
+  id              String      @id @default(cuid())
+  channelId       String
+  messageId       Int
+  caption         String?     @db.Text
+  status          ContentStatus @default(ACTIVE)
+
+  channel         TelegramChannel @relation(fields: [channelId], references: [id], onDelete: Cascade)
+  contentLinks    ContentLink[]
+
+  createdAt       DateTime    @default(now())
+
+  @@unique([channelId, messageId])
+}
+
+model ContentLink {
+  id          String @id @default(cuid())
+  animeId     String
+  postId      String
+
+  seasonId    String?
+  episodeId   String?
+
+  anime       Anime         @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  post        TelegramPost  @relation(fields: [postId], references: [id], onDelete: Cascade)
+  season      Season?       @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+  episode     Episode?      @relation(fields: [episodeId], references: [id], onDelete: Cascade)
+
+  createdAt   DateTime      @default(now())
+
+  @@index([animeId])
+  @@index([seasonId])
+  @@index([episodeId])
+  @@index([postId])
+}
+
+model BotUser {
+  id              String   @id @default(cuid())
+  telegramUserId  BigInt   @unique
+  username        String?
+  firstName       String?
+  lastName        String?
+
+  requests        AnimeRequest[]
+  searches        SearchLog[]
+
+  createdAt       DateTime @default(now())
+  lastSeenAt      DateTime @default(now())
+}
+
+model AnimeRequest {
+  id          String        @id @default(cuid())
+  title       String
+  description String?
+  status      RequestStatus @default(PENDING)
+
+  userId      String?
+  animeId     String?
+
+  user        BotUser? @relation(fields: [userId], references: [id], onDelete: SetNull)
+  anime       Anime?   @relation(fields: [animeId], references: [id], onDelete: SetNull)
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([status])
+}
+
+model SearchLog {
+  id          String   @id @default(cuid())
+  query       String
+  normalized  String
+  resultsCount Int     @default(0)
+
+  userId      String?
+  user        BotUser? @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  createdAt   DateTime @default(now())
+
+  @@index([normalized])
+  @@index([createdAt])
+}
