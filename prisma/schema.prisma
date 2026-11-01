@@ -8,6 +8,10 @@ datasource db {
   provider = "postgresql"
 }
 
+// =====================================================
+// ENUMS
+// =====================================================
+
 enum AnimeType {
   TV
   MOVIE
@@ -25,11 +29,12 @@ enum AnimeStatus {
   UNKNOWN
 }
 
-enum RequestStatus {
-  PENDING
-  APPROVED
-  REJECTED
-  COMPLETED
+enum AnimeLanguage {
+  JAPANESE_SUB
+  LATINO
+  CASTILIAN
+  MULTIPLE
+  UNKNOWN
 }
 
 enum ChannelType {
@@ -42,203 +47,481 @@ enum ContentStatus {
   INACTIVE
 }
 
-model Anime {
-  id              String      @id @default(cuid())
-  anilistId       Int?        @unique
-
-  title           String
-  originalTitle   String?
-  description     String?     @db.Text
-  posterUrl       String?
-  bannerUrl       String?
-  year            Int?
-  type            AnimeType   @default(UNKNOWN)
-  status          AnimeStatus @default(UNKNOWN)
-
-  aliases         AnimeAlias[]
-  seasons         Season[]
-  genres          AnimeGenre[]
-  characters      AnimeCharacterRelation[]
-  contentLinks    ContentLink[]
-  requests        AnimeRequest[]
-
-  createdAt       DateTime    @default(now())
-  updatedAt       DateTime    @updatedAt
-
-  @@index([title])
-  @@index([year])
+enum ImportStatus {
+  PENDING
+  MATCHED
+  APPROVED
+  REJECTED
 }
 
-model AnimeAlias {
-  id          String @id @default(cuid())
-  animeId     String
-  value       String
-  normalized  String
+enum RequestStatus {
+  PENDING
+  APPROVED
+  REJECTED
+  COMPLETED
+}
 
-  anime       Anime  @relation(fields: [animeId], references: [id], onDelete: Cascade)
+enum UserRole {
+  USER
+  ADMIN
+}
+
+// =====================================================
+// ANIME
+// =====================================================
+
+model Anime {
+  id String @id @default(cuid())
+
+  // Nombres
+  title           String
+  titleEs         String?
+  titleEn         String?
+  titleRomaji     String?
+  titleNative     String?
+  normalizedTitle String
+
+  // AniList
+  anilistId Int? @unique
+
+  // Información
+  description String? @db.Text
+  posterUrl   String?
+  bannerUrl   String?
+  year        Int?
+  episodes    Int?
+
+  type   AnimeType   @default(UNKNOWN)
+  status AnimeStatus @default(UNKNOWN)
+
+  isActive Boolean @default(true)
+
+  // Relaciones
+  aliases      AnimeAlias[]
+  seasons      Season[]
+  genres       AnimeGenre[]
+  channels     AnimeChannel[]
+  contentLinks ContentLink[]
+  requests     AnimeRequest[]
+  favorites    AnimeFavorite[]
+  imports      AnimeImport[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([title])
+  @@index([normalizedTitle])
+  @@index([year])
+  @@index([isActive])
+}
+
+// =====================================================
+// ALIASES / NOMBRES ALTERNATIVOS
+// =====================================================
+
+model AnimeAlias {
+  id String @id @default(cuid())
+
+  animeId String
+  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+
+  value      String
+  normalized String
+
+  createdAt DateTime @default(now())
 
   @@unique([animeId, normalized])
   @@index([normalized])
 }
 
+// =====================================================
+// CACHE DE ANILIST
+// =====================================================
+
+model AniListCache {
+  id String @id @default(cuid())
+
+  // ID único del anime en AniList
+  anilistId Int @unique
+
+  // Nombres normalizados que identifican este resultado
+  // Ejemplo: ["kimetsu no yaiba", "demon slayer"]
+  searchAliases String[] @default([])
+
+  // Respuesta original de AniList
+  responseData Json
+
+  fetchedAt DateTime @default(now())
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([fetchedAt])
+}
+
+// =====================================================
+// TEMPORADAS
+// =====================================================
+
 model Season {
-  id          String   @id @default(cuid())
-  animeId     String
+  id String @id @default(cuid())
+
+  animeId String
+  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+
   number      Int
   title       String?
-  description String?
+  description String? @db.Text
 
-  anime       Anime    @relation(fields: [animeId], references: [id], onDelete: Cascade)
-  episodes    Episode[]
+  episodes     Episode[]
   contentLinks ContentLink[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 
   @@unique([animeId, number])
+  @@index([animeId])
 }
+
+// =====================================================
+// EPISODIOS
+// =====================================================
 
 model Episode {
-  id          String   @id @default(cuid())
-  seasonId    String
+  id String @id @default(cuid())
+
+  seasonId String
+  season   Season @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+
   number      Int
   title       String?
-  description String?
+  description String? @db.Text
   duration    Int?
 
-  season      Season   @relation(fields: [seasonId], references: [id], onDelete: Cascade)
   contentLinks ContentLink[]
 
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
   @@unique([seasonId, number])
+  @@index([seasonId])
 }
 
+// =====================================================
+// GÉNEROS
+// =====================================================
+
 model Genre {
-  id      String       @id @default(cuid())
-  name    String       @unique
-  animes  AnimeGenre[]
+  id String @id @default(cuid())
+
+  name String
+  slug String @unique
+
+  animes AnimeGenre[]
+
+  @@index([name])
 }
 
 model AnimeGenre {
   animeId String
   genreId String
 
-  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
-  genre   Genre @relation(fields: [genreId], references: [id], onDelete: Cascade)
+  anime Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+  genre Genre @relation(fields: [genreId], references: [id], onDelete: Cascade)
 
   @@id([animeId, genreId])
+  @@index([genreId])
 }
 
-model Character {
-  id          String @id @default(cuid())
-  anilistId   Int?   @unique
-  name        String
-  imageUrl    String?
-
-  animes      AnimeCharacterRelation[]
-}
-
-model AnimeCharacterRelation {
-  animeId     String
-  characterId String
-  role        String?
-
-  anime       Anime     @relation(fields: [animeId], references: [id], onDelete: Cascade)
-  character   Character @relation(fields: [characterId], references: [id], onDelete: Cascade)
-
-  @@id([animeId, characterId])
-}
+// =====================================================
+// CANALES DE TELEGRAM CON CONTENIDO
+// =====================================================
 
 model TelegramChannel {
-  id              String      @id @default(cuid())
-  telegramChatId  BigInt      @unique
-  title           String
-  username        String?
-  type            ChannelType
-  inviteUrl       String?
-  isActive        Boolean     @default(true)
+  id String @id @default(cuid())
 
-  posts           TelegramPost[]
+  telegramChatId BigInt? @unique
+  username       String? @unique
 
-  createdAt       DateTime    @default(now())
-  updatedAt       DateTime    @updatedAt
+  title       String
+  description String? @db.Text
+  photoUrl    String?
+
+  type      ChannelType @default(PUBLIC)
+  publicUrl String?
+  inviteUrl String?
+
+  isActive Boolean @default(true)
+
+  animes  AnimeChannel[]
+  posts   TelegramPost[]
+  imports AnimeImport[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([title])
+  @@index([isActive])
 }
+
+// =====================================================
+// RELACIÓN ANIME - CANALES
+// =====================================================
+
+model AnimeChannel {
+  id String @id @default(cuid())
+
+  animeId String
+  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+
+  telegramChannelId String
+  telegramChannel   TelegramChannel @relation(fields: [telegramChannelId], references: [id], onDelete: Cascade)
+
+  language AnimeLanguage @default(UNKNOWN)
+
+  createdAt DateTime @default(now())
+
+  @@unique([animeId, telegramChannelId, language])
+  @@index([animeId])
+  @@index([telegramChannelId])
+}
+
+// =====================================================
+// FUENTES DE IMPORTACIÓN
+// Ejemplo: ListaNaOtakus
+// =====================================================
+
+model TelegramSource {
+  id String @id @default(cuid())
+
+  telegramChatId BigInt? @unique
+  username       String @unique
+
+  title    String
+  url      String
+  isActive Boolean @default(true)
+
+  lastImportedMessageId Int?
+
+  posts TelegramSourcePost[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// =====================================================
+// PUBLICACIONES ORIGINALES DE LA FUENTE
+// =====================================================
+
+model TelegramSourcePost {
+  id String @id @default(cuid())
+
+  sourceId String
+  source   TelegramSource @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  messageId Int
+
+  // Texto extraído
+  text String? @db.Text
+
+  // Datos originales extraídos de Telegram
+  rawData Json?
+
+  // Resultado del parser
+  parsedData Json?
+
+  imports AnimeImport[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([sourceId, messageId])
+  @@index([sourceId])
+}
+
+// =====================================================
+// IMPORTACIONES DE ANIME
+// =====================================================
+
+model AnimeImport {
+  id String @id @default(cuid())
+
+  sourcePostId String
+  sourcePost   TelegramSourcePost @relation(fields: [sourcePostId], references: [id], onDelete: Cascade)
+
+  // Título detectado
+  title           String
+  normalizedTitle String
+
+  // Enlace extraído
+  channelUrl String
+
+  // Idioma detectado
+  language AnimeLanguage @default(UNKNOWN)
+
+  // Coincidencia de AniList
+  anilistId Int?
+
+  // Copia de los metadatos utilizados en esta importación
+  anilistData Json?
+
+  status ImportStatus @default(PENDING)
+
+  // Anime definitivo
+  animeId String?
+  anime   Anime? @relation(fields: [animeId], references: [id], onDelete: SetNull)
+
+  // Canal definitivo
+  telegramChannelId String?
+  telegramChannel   TelegramChannel? @relation(fields: [telegramChannelId], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([sourcePostId, normalizedTitle, channelUrl])
+  @@index([status])
+  @@index([normalizedTitle])
+  @@index([anilistId])
+}
+
+// =====================================================
+// PUBLICACIONES DE LOS CANALES DE CONTENIDO
+// =====================================================
 
 model TelegramPost {
-  id              String      @id @default(cuid())
-  channelId       String
-  messageId       Int
-  caption         String?     @db.Text
-  status          ContentStatus @default(ACTIVE)
+  id String @id @default(cuid())
 
-  channel         TelegramChannel @relation(fields: [channelId], references: [id], onDelete: Cascade)
-  contentLinks    ContentLink[]
+  channelId String
+  channel   TelegramChannel @relation(fields: [channelId], references: [id], onDelete: Cascade)
 
-  createdAt       DateTime    @default(now())
+  messageId Int
+  caption   String? @db.Text
+
+  status ContentStatus @default(ACTIVE)
+
+  contentLinks ContentLink[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 
   @@unique([channelId, messageId])
-}
-
-model ContentLink {
-  id          String @id @default(cuid())
-  animeId     String
-  postId      String
-
-  seasonId    String?
-  episodeId   String?
-
-  anime       Anime         @relation(fields: [animeId], references: [id], onDelete: Cascade)
-  post        TelegramPost  @relation(fields: [postId], references: [id], onDelete: Cascade)
-  season      Season?       @relation(fields: [seasonId], references: [id], onDelete: Cascade)
-  episode     Episode?      @relation(fields: [episodeId], references: [id], onDelete: Cascade)
-
-  createdAt   DateTime      @default(now())
-
-  @@index([animeId])
-  @@index([seasonId])
-  @@index([episodeId])
-  @@index([postId])
-}
-
-model BotUser {
-  id              String   @id @default(cuid())
-  telegramUserId  BigInt   @unique
-  username        String?
-  firstName       String?
-  lastName        String?
-
-  requests        AnimeRequest[]
-  searches        SearchLog[]
-
-  createdAt       DateTime @default(now())
-  lastSeenAt      DateTime @default(now())
-}
-
-model AnimeRequest {
-  id          String        @id @default(cuid())
-  title       String
-  description String?
-  status      RequestStatus @default(PENDING)
-
-  userId      String?
-  animeId     String?
-
-  user        BotUser? @relation(fields: [userId], references: [id], onDelete: SetNull)
-  anime       Anime?   @relation(fields: [animeId], references: [id], onDelete: SetNull)
-
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-
   @@index([status])
 }
 
+// =====================================================
+// RELACIÓN ENTRE ANIME Y PUBLICACIONES
+// =====================================================
+
+model ContentLink {
+  id String @id @default(cuid())
+
+  animeId String
+  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+
+  postId String
+  post   TelegramPost @relation(fields: [postId], references: [id], onDelete: Cascade)
+
+  seasonId String?
+  season   Season? @relation(fields: [seasonId], references: [id], onDelete: SetNull)
+
+  episodeId String?
+  episode   Episode? @relation(fields: [episodeId], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now())
+
+  @@index([animeId])
+  @@index([postId])
+  @@index([seasonId])
+  @@index([episodeId])
+}
+
+// =====================================================
+// USUARIOS DEL BOT
+// =====================================================
+
+model BotUser {
+  id String @id @default(cuid())
+
+  telegramUserId BigInt @unique
+
+  username  String?
+  firstName String?
+  lastName  String?
+
+  role      UserRole @default(USER)
+  isBlocked Boolean @default(false)
+
+  requests  AnimeRequest[]
+  searches  SearchLog[]
+  favorites AnimeFavorite[]
+
+  createdAt  DateTime @default(now())
+  lastSeenAt DateTime?
+
+  @@index([role])
+}
+
+// =====================================================
+// FAVORITOS
+// =====================================================
+
+model AnimeFavorite {
+  id String @id @default(cuid())
+
+  userId String
+  user   BotUser @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  animeId String
+  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@unique([userId, animeId])
+  @@index([userId, createdAt])
+}
+
+// =====================================================
+// SOLICITUDES DE ANIME
+// =====================================================
+
+model AnimeRequest {
+  id String @id @default(cuid())
+
+  title       String
+  description String? @db.Text
+
+  status RequestStatus @default(PENDING)
+
+  userId String?
+  user   BotUser? @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  animeId String?
+  anime   Anime? @relation(fields: [animeId], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([status])
+  @@index([userId])
+}
+
+// =====================================================
+// HISTORIAL DE BÚSQUEDAS
+// =====================================================
+
 model SearchLog {
-  id          String   @id @default(cuid())
-  query       String
-  normalized  String
-  resultsCount Int     @default(0)
+  id String @id @default(cuid())
 
-  userId      String?
-  user        BotUser? @relation(fields: [userId], references: [id], onDelete: SetNull)
+  query        String
+  normalized   String
+  resultsCount Int @default(0)
 
-  createdAt   DateTime @default(now())
+  userId String?
+  user   BotUser? @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  createdAt DateTime @default(now())
 
   @@index([normalized])
   @@index([createdAt])
+  @@index([userId])
 }

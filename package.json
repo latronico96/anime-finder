@@ -5,17 +5,16 @@
   "scripts": {
     "dev": "concurrently -k \"next dev\" \"npm:bot:dev\"",
     "bot:dev": "tsx scripts/bot-dev.ts",
-
     "build": "next build",
     "start": "next start",
     "prod": "npm run build && npm run start",
-
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate dev",
     "db:deploy": "prisma migrate deploy",
     "db:seed": "prisma db seed"
   },
   "dependencies": {
+    "@next/env": "^16.4.3",
     "@prisma/adapter-pg": "^7.10.1",
     "@prisma/client": "^7.10.1",
     "grammy": "^1.46.0",
