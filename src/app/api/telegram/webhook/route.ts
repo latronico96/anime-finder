@@ -17,7 +17,3 @@ export async function POST(request: Request) {
 
   return handleUpdate(request);
 }
-.env
-├── .env.local
-├── .env.production
-├── .env.example
