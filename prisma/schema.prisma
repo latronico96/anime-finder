@@ -11,6 +11,10 @@ datasource db {
 // =====================================================
 // ENUMS
 // =====================================================
+enum AnimeAliasSource {
+  TITLE
+  MANUAL
+}
 
 enum AnimeType {
   TV
@@ -120,15 +124,16 @@ model Anime {
 // =====================================================
 
 model AnimeAlias {
-  id String @id @default(cuid())
-
-  animeId String
-  anime   Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
-
+  id         String           @id @default(cuid())
+  animeId    String
   value      String
   normalized String
+  source     AnimeAliasSource @default(MANUAL)
+
+  anime Anime @relation(fields: [animeId], references: [id], onDelete: Cascade)
 
   createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 
   @@unique([animeId, normalized])
   @@index([normalized])

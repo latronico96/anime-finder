@@ -6,8 +6,9 @@ export async function addAnimeAlias(
   value: string
 ) {
   const normalized = normalizeText(value);
+  const cleanValue = value.trim();
 
-  if (!normalized) {
+  if (!cleanValue) {
     throw new Error("El alias no puede estar vacío.");
   }
 
@@ -18,11 +19,14 @@ export async function addAnimeAlias(
         normalized,
       },
     },
-    update: { value: value.trim() },
     create: {
       animeId,
-      value: value.trim(),
+      value: cleanValue,
       normalized,
+      source: "MANUAL",
+    },
+    update: {
+      value: cleanValue,
     },
   });
 }

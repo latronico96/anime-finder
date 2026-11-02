@@ -1,6 +1,7 @@
 import { prisma } from "../lib/db/prisma";
 import { normalizeTitle } from "./normalize";
 
+
 type AnimeType =
   | "TV"
   | "MOVIE"
@@ -52,26 +53,78 @@ export async function updateAnime(
   animeId: string,
   input: Partial<CreateAnimeInput>
 ) {
-  const data = { ...input };
+  return prisma.$transaction(async (tx) => {
+    const anime = await tx.anime.update({
+      where: { id: animeId },
+      data: {
+        ...input,
+        ...(input.title !== undefined && {
+          normalizedTitle: normalizeTitle(input.title),
+        }),
+      },
+    });
 
-  if (input.title !== undefined) {
-    const title = input.title.trim();
+    // Títulos que deben estar disponibles como alias.
+    const titles = [
+      anime.title,
+      anime.titleEs,
+      anime.titleEn,
+      anime.titleRomaji,
+      anime.titleNative,
+    ];
 
-    if (!title) {
-      throw new Error("El título no puede estar vacío.");
+    // Normalizar y eliminar duplicados.
+    const aliases = Array.from(
+      new Map(
+        titles
+          .filter((value): value is string =>
+            typeof value === "string" && value.trim().length > 0
+          )
+          .map((value) => {
+            const normalized = normalizeTitle(value);
+            return [normalized, { value: value.trim(), normalized }];
+          })
+      ).values()
+    );
+
+    const normalizedValues = aliases.map((alias) => alias.normalized);
+
+    // Eliminar solamente los alias automáticos que dejaron de corresponder.
+    await tx.animeAlias.deleteMany({
+      where: {
+        animeId,
+        source: "TITLE",
+        normalized: {
+          notIn: normalizedValues,
+        },
+      },
+    });
+
+    // Crear los alias automáticos faltantes.
+    for (const alias of aliases) {
+      const existing = await tx.animeAlias.findUnique({
+        where: {
+          animeId_normalized: {
+            animeId,
+            normalized: alias.normalized,
+          },
+        },
+      });
+
+      // No sobrescribir ni convertir alias manuales.
+      if (!existing) {
+        await tx.animeAlias.create({
+          data: {
+            animeId,
+            value: alias.value,
+            normalized: alias.normalized,
+            source: "TITLE",
+          },
+        });
+      }
     }
 
-    data.title = title;
-  }
-
-  return prisma.anime.update({
-    where: { id: animeId },
-    data: {
-      ...data,
-      ...(data.title
-        ? { normalizedTitle: normalizeTitle(data.title) }
-        : {}),
-    },
+    return anime;
   });
 }
 
