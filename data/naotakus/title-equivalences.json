@@ -1,0 +1,244 @@
+
+{
+  "groups": [
+    {
+      "canonicalTitle": "Shingeki no Kyojin",
+      "titles": ["Shingeki no Kyojin", "Attack on Titan", "Ataque a los Titanes"]
+    },
+    {
+      "canonicalTitle": "Kage no Jitsuryokusha ni Naritakute!",
+      "titles": ["Kage no Jitsuryokusha ni Naritakute!", "Eminence in Shadow", "The Eminence in Shadow"]
+    },
+    {
+      "canonicalTitle": "Ansatsu Kyoushitsu",
+      "titles": ["Ansatsu Kyoushitsu", "Assassination Classroom"]
+    },
+    {
+      "canonicalTitle": "Ao no Exorcist",
+      "titles": ["Ao no Exorcist", "Blue Exorcist"]
+    },
+    {
+      "canonicalTitle": "BeheNeko",
+      "titles": ["BeheNeko", "S-Rank Monster no \"Behemoth\" Dakedo"]
+    },
+    {
+      "canonicalTitle": "BOFURI",
+      "titles": ["BOFURI", "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu"]
+    },
+    {
+      "canonicalTitle": "Boku dake ga Inai Machi",
+      "titles": ["Boku dake ga Inai Machi", "Erased"]
+    },
+    {
+      "canonicalTitle": "Cang Lan Jue",
+      "titles": ["Cang Lan Jue", "Love Between Fairy and Devil"]
+    },
+    {
+      "canonicalTitle": "Celestial Bonds",
+      "titles": ["Celestial Bonds", "Xian Chong"]
+    },
+    {
+      "canonicalTitle": "Chao Neng Lifang",
+      "titles": ["Chao Neng Lifang", "Super Cube"]
+    },
+    {
+      "canonicalTitle": "Cike Wu Liuqi",
+      "titles": ["Cike Wu Liuqi/Scissor Seven", "Scisor seven"]
+    },
+    {
+      "canonicalTitle": "CINDERELLA CHEF",
+      "titles": ["CINDERELLA CHEF", "Meng Qi Shi Shen"]
+    },
+    {
+      "canonicalTitle": "Classroom of the Elite",
+      "titles": ["Classroom of the élite", "Youkoso Jitsuryoku Shijou Shugi No Kyoshitsu E"]
+    },
+    {
+      "canonicalTitle": "Clean Freak! Aoyama-kun",
+      "titles": ["Clean Freak! Aoyama-kun", "Keppeki Danshi! Aoyama-kun"]
+    },
+    {
+      "canonicalTitle": "Demon King Daimaou",
+      "titles": ["Demon King Daimaou", "Ichiban Ushiro no Daimaou"]
+    },
+    {
+      "canonicalTitle": "Kimetsu no Yaiba",
+      "titles": ["Kimetsu No Yaiba", "Demon Slayer"]
+    },
+    {
+      "canonicalTitle": "Dragon Girl Problem",
+      "titles": ["Dragon Girl Problem", "Yonghansonyeo"]
+    },
+    {
+      "canonicalTitle": "DRAGON RAJA",
+      "titles": ["DRAGON RAJA", "LONG ZU"]
+    },
+    {
+      "canonicalTitle": "Dragonar Academy",
+      "titles": ["Dragonar Academy", "Seikoku no Dragonar"]
+    },
+    {
+      "canonicalTitle": "Fire Force",
+      "titles": ["Fire Force", "Enen no Shouboutai (Fire Force)"]
+    },
+    {
+      "canonicalTitle": "Failure Frame",
+      "titles": ["Failure Frame", "Hazurewaku no \"Joutai Ijou Skill\""]
+    },
+    {
+      "canonicalTitle": "Fena Pirate Princess",
+      "titles": ["Fena Pirate Princess", "Kaizoku Oujo"]
+    },
+    {
+      "canonicalTitle": "Frieren",
+      "titles": ["Frieren", "Sousou no Frieren"]
+    },
+    {
+      "canonicalTitle": "Hell's Paradise",
+      "titles": ["Hell's Paradise", "Jigokuraku"]
+    },
+    {
+      "canonicalTitle": "ImoCho",
+      "titles": ["ImoCho", "Saikin, Imouto no Yousu ga Chotto Okashiinda ga"]
+    },
+    {
+      "canonicalTitle": "Iseleve",
+      "titles": ["Iseleve", "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"]
+    },
+    {
+      "canonicalTitle": "Koutetsujou no Kabaneri",
+      "titles": ["Koutetsujou no Kabaneri", "Kabaneri: La Fortaleza de Hierro"]
+    },
+    {
+      "canonicalTitle": "Tower of God",
+      "titles": ["Tower Of God", "Kami no Tou"]
+    },
+    {
+      "canonicalTitle": "Kaoru Hana wa Rin to Saku",
+      "titles": ["Kaoru Hana wa Rin to Saku", "The Fragrant Flower Blooms with Dignity"]
+    },
+    {
+      "canonicalTitle": "Mobile Suit Gundam 00",
+      "titles": ["Mobile Suit Gundam 00", "Kidou Senshi Gundam 00"]
+    },
+    {
+      "canonicalTitle": "Konosuba!",
+      "titles": ["Konosuba!", "Kono Subarashii Sekai ni Shukufuku"]
+    },
+    {
+      "canonicalTitle": "Love of Kill",
+      "titles": ["Love of Kill", "Koroshi Ai"]
+    },
+    {
+      "canonicalTitle": "Vampire Princess Miyu",
+      "titles": ["Vampire Princess Miyu", "Kyuuketsuhime Miyu"]
+    },
+    {
+      "canonicalTitle": "Saiki Kusuo no Psi-nan",
+      "titles": ["Saiki Kusuo No Psi Nan", "La Desastrosa Vida de Saiki"]
+    },
+    {
+      "canonicalTitle": "La Leyenda de Hei",
+      "titles": ["La Leyenda de Hei", "Luo Xiaohei Zhanji"]
+    },
+    {
+      "canonicalTitle": "Left-Hand Layup",
+      "titles": ["Left-Hand Layup", "Zuoshou Shanglan"]
+    },
+    {
+      "canonicalTitle": "Record of Lodoss War",
+      "titles": ["Record of Lodoss War", "Lodoss-tou Senki"]
+    },
+    {
+      "canonicalTitle": "Nanatsu no Taizai",
+      "titles": ["Nanatsu no Taizai Latino", "Los 7 Pecados Capitales"]
+    },
+    {
+      "canonicalTitle": "Neon Genesis Evangelion",
+      "titles": ["Neon Genesis Evangelion", "Shinseiki Evangelion"]
+    },
+    {
+      "canonicalTitle": "Wolf Girl & Black Prince",
+      "titles": ["Wolf Girl & Black Prince", "Ookami Shoujo to Kuro Ouji"]
+    },
+    {
+      "canonicalTitle": "Solo Leveling",
+      "titles": ["Solo Leveling", "Ore dake Level Up na Ken"]
+    },
+    {
+      "canonicalTitle": "Ousama Ranking",
+      "titles": ["Ousama Ranking", "Ranking of Kings"]
+    },
+    {
+      "canonicalTitle": "Platinum End",
+      "titles": ["Platinum End", "Purachina Endo"]
+    },
+    {
+      "canonicalTitle": "Pop Team Epic",
+      "titles": ["Pop Team Epic", "Poputepipikku"]
+    },
+    {
+      "canonicalTitle": "The King's Avatar",
+      "titles": ["The King's Avatar", "Quan zhi gao shou"]
+    },
+    {
+      "canonicalTitle": "Yakuza Fiancé",
+      "titles": ["Yakuza Fiancé", "Raise wa Tanin ga Ii"]
+    },
+    {
+      "canonicalTitle": "Record of Ragnarok",
+      "titles": ["Record of Ragnarok", "Shuumatsu no Valkyrie"]
+    },
+    {
+      "canonicalTitle": "Sentenced to Be a Hero",
+      "titles": ["Sentenced to Be a Hero", "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"]
+    },
+    {
+      "canonicalTitle": "The Last Summoner",
+      "titles": ["The Last Summoner", "Zuihou de Zhaohuan Shi"]
+    },
+    {
+      "canonicalTitle": "The Promised Neverland",
+      "titles": ["The Promise No Neverland", "Yakusoku no Neverland"]
+    },
+    {
+      "canonicalTitle": "4 Cut Hero",
+      "titles": ["4 Cut Hero", "SI GE YONGZHE"]
+    },
+    {
+      "canonicalTitle": "Fangkai Nage Nuwu",
+      "titles": ["Fangkai Nage Nuwu", "Release That Witch"]
+    },
+    {
+      "canonicalTitle": "Fog Hill of Five Elements",
+      "titles": ["Fog Hill of Five Elements", "Wu Shan Wu Xing: Xichuan Huan Zi Lin"]
+    },
+    {
+      "canonicalTitle": "Lord of Mysteries",
+      "titles": ["Lord of Mysteries", "Guimi Zhi Zhu: Xiaochou Pian"]
+    },
+    {
+      "canonicalTitle": "MUGEN GACHA",
+      "titles": ["MUGEN GACHA", "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!"]
+    },
+    {
+      "canonicalTitle": "The Beginning After the End",
+      "titles": ["The Beginning After The End", "Saikyou no Ousama"]
+    },
+    {
+      "canonicalTitle": "Spirit Master",
+      "titles": ["Spirit Master", "Yu Ling Shi"]
+    }
+  ],
+  "review": [
+    ["Blood The last Vampire", "Kimi no na wa"],
+    ["Koe no Katachi", "Metoporisu"],
+    ["Versailles no bara", "Blood The last Vampire"],
+    ["100-nin", "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo"],
+    ["Digimon Adventure 2020", "Digimon Latino"],
+    ["Mahou Sensei Negima! Series", "UQ Holder!"],
+    ["Mahoutsukai Reimeiki", "Zero Kara Series"],
+    ["Space me, great lord", "Spare Me, Great Lord!"],
+    ["Alice in Borderland", "Imawa no Kuni no Arisu"]
+  ]
+}

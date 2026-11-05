@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: N"
+  ],
+  "counts": {
+    "total": 43,
+    "withChannels": 43,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "No.6",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7Jsak4CS6tU5MGNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nageki no Bourei wa Intai shitai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5JRLSmmGTPowZjZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nagi no Asukara",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+N0pWUYbs1aBmZDdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Naka No Hito Genome",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEC-WfZzRSaDyP9EtA",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nami yo Kiitekure",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+eMPuPT46hzk4NjBh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NANA",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vg2FYxLRP84zZjBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nanatsu no Taizai Latino",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEeuodBUH70BOu7XMQ",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NANBAKA",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1EwLqQK1nrQyODgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nande koko ni Sensei ga!?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+axoHVpTcscU3NzQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Natsume Yuujinchou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/r9-pltonDWxiYTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nazo no kanojo x",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/TpwpyfHriFxiMzlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nazotoki wa Dinner no Ato de",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VyI61sA375c0MjBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Necronomico no Cosmic Horror Show",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IHcnVfh0GpU1NGZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Needless",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Eg0wzHaageQ5ZjIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NEEDY GIRL OVERDOSE",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hNiZpXa-dHthYTJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0GPHzSrphXsxMTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NegaPosi Angler",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+mJEWVgDEBbs1NmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/5XUTChYn8YFjYjAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Neko to Ryuu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+CbwfBTGjs8RmODQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/hoG0XlS9qUc0YWMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0ufSURZQxyFkNjcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NHK ni Youkoso!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+RXwe2JoX6aE3YzQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nichijou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xQb031rUmMY2YmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NieR:Automata",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+mX5GD9-eA_o2YTUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+tkJWP3wvo5M0ZDEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nige Jouzu no Wakagimi",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-x51M0HN0shlMmUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nihon e Youkoso Elf-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Ynl3reseaeBkMzIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NINJA KAMUI",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vlK5GX-K0CFjZjNh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ninja to Koroshiya no Futarigurashi",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+n2oqLbvSRvlkNTY5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "NIPPON SANGOKU",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5ooAvpCb0kdkZjhh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nisekoi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Nise_Koi",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nishi no Yoki Majo: Astraea Testament",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+wREWDmij6fNhNGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Niwatori Fighter",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+F0fuZQek0JU4Mjcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "No Game No Life",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/aV05Wf_bZQkyZjBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Noblesse",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TV1lJfbi-8XQOWGw",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Noein: Mou Hitori no Kimi e",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/1OhLpGHupeJiMDVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nohara Hiroshi: Meshi no Ryuugi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Wbd2SI3eLX0yNDVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Non non biyori",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/XDSdV7KYC503OWQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Noragami",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/SLgudXvDpZrzAZ_W",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Norn9: Norn+Nonetto",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/UImihAVEI9NmZDAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VOX4w9kdzKphNjAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nozo x Kimi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+bQLtpQ0i235mMTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Nukitashi The Animation",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5pAa8otQH843Mzlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    }
+  ]
+}

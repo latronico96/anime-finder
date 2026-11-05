@@ -1,0 +1,718 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: Y"
+  ],
+  "counts": {
+    "total": 42,
+    "withChannels": 42,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Yahari Ore no Seishun Love Come wa Machigatteiru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Ls7ezubulN9hZjVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yakuza Fiancé",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+T12CyPJO6M00Mjhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yakusoku no Neverland",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Yakusoku_No_Neverland_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yasei no Last Boss ga Arawareta!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2lu9zH_9WNNkNTg5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yasuke",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/5U_wHNRgHUM4MGU5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yamada-kun to 7-nin no Majo",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFCXRfwKAo0aoI35dA",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xXQ2DGtspDk2ZDQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yami Shibai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Yw9wXMfd4Io5YzRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yami to Boushi to Hon no Tabibito",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+kjkwDmN0Ks5lODEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yano-kun no Futsuu no Hibi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-2HnrygKa8UyOWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yarinaoshi Reijou wa Ryuutei Heika wo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+J4MW8NiWT-FhNGYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yatterman",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+zvQWw22lrChmNDZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yofukashi no Uta",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+quwM9O4Sg-01M2Ux",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yomi no Tsugai",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+tW9l7IJ1h-45NzQ5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yondemasu yo, Azazel-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+a9fziITGR3o3YWVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yonghansonyeo",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+rNup2TijccUxMTIx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yoroi Shin Den Samurai Troopers",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-qlXrjV4TW84ZDQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yosuga no Sora",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IAw6Lpg0NF80YTlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Youjo Senki",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/WaYIiLaIKEBjZmJh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Youkai Gakkou no Sensei Hajimemashita!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Du2hpI0eAQQ0MDM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Youkai Zakuro",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/4lPrYvXIxBFhYTUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuukoku no Moriarty",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+G-ECrfLfqM44NDVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Youkoso Jitsuryoku Shijou Shugi No Kyoshitsu E",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEexLGjg9Ieb9SIV6w",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Young Black Jack",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+N13BaXDwR8ZhMjIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yowamushi Pedal",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/OQ_YN0Lw6Qg0MzNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yowayowa Sensei",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Sq5V6g1hi50wMWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yozakura Quartet",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/OQUP8FT_FBVhMGRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yu-Gi-Oh",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+raJPGxjl-d44ZDQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yu Ling Shi",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TJ9qk97nN781M2U5",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yubisaki to Renren",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FktHTA6o4WZhOWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuragi-sou no Yuuna-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+LNaYna2jTPthMGZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuri!!! on Ice",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/iTKBmRmKMqwxN2Rh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuru Camp",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/9yYcB1KjwR80Y2Qx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+kzUHDV9Hdtc0NGIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha, Yamemasu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Dlron0UomzpjN2Mx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/zAoFVIR1Ty5kM2Ex",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha no Kuzu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Vv4cY6cUUxRlYzAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+03uG3-C4LcY5NjFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Qz0a9QbQilY3ZDA5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6HCPzRhLhG9jMGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru \\~Kono Shiromadoushi ga Kikakugai Sugiru\\~",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KoBEtoXygnllN2Jh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "YuYu Hakusho",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/zbrF0KxfxvNjNGM5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    }
+  ]
+}

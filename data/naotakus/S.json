@@ -1,0 +1,2526 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: S"
+  ],
+  "counts": {
+    "total": 152,
+    "withChannels": 152,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "SABIKUI BISCO",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+br8lM9mi7jI2ZDFh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saber Marionette Series",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AdPMvCkyKetlNmQx",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saenai Heroine no Sodatekata",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+O8RHbS4GjvdhNTVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Z7LGjdR4ljliYjJh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saihate no Paladin",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+dDpVnhZiqGxhODA5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saijaku Muhai no Bahamut",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/VUOQKiTfKYJmMzk5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+75Ip2swxoaxiYzIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saiki Kusuo No Psi Nan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+sXP4B_njGDEzZmU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7AweBA5IHKc1ZjMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishousen wo Kage kara Shihai suru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+LGH0FA0TUHs0YWRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+sa6-XBN0H-RlMDNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saikyou no Ousama",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ff2Nckh4wDwzMzAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+sM6MEElvIG00Y2Fh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saikyou Onmyouji no Isekai Tenseiki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+S7aLFz8UFRAwZTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+r-TtAbCh71VkMTQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sailor Moon",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/b3gawQE9nDY1ZmMx",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saint Seiya",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+evlb-nEMo4BkYjlh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saioshi no Gikei wo Mederu tame, Nagaiki Shimasu!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UO_A9DM0woY0Zjdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sakamichi no Apollon",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Owhs2-PV-VQyMjUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+MCb3iO1ve3lmNDgx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sakamoto desu ga?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/UfG_Di2o9ixhNmU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sakurada Reset",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FO1lAWp8-10xMTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sakurasou no Pet na Kanojo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/m2VZ2S_WjUQ2MWNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+dDf_YH8Udi83M2Ux",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Samurai Champloo",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+JaqmlqttLBs2NDVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SANDA",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Ui9YzXKGRS1hYWVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sankarea",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+EXugsW3e80o5ZmNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sanxian Lun Hui",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+pitNV96aNHc5YzMx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Saredo Tsumibito wa Ryuu to Odoru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+45Cv4e2JP-hhZDYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sasaki to Miyano",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yk4JyhX_n5U0ZGZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sasaki to Pii-chan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ISR_BWBj4v1jYzE5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sasameki Koto",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/hv0PMuviDy4yMTZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Satsuriku no Tenshi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+LLpzt-nZHpkxZWVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sawaranaide Kotesashi-kun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-Gmepq6Kz7kzZmZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sayonara Ryuusei Konnichiwa Jinsei",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4hywuMzKYadiM2Qx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Scarlet Nexus",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_EBYutRSKtZmNTlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "School Days",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+h0HmZhrg6QU4ZDYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "School of the elite",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/UTd_QiESomG-MW96",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Schwarzesmarken",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+lXs6Xek-gPowMTlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Scisor seven",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fZDpPcd4uCY4MmZh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Secrets of the Rivers",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+pitNV96aNHc5YzMx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DkuwCNz3l7ozYzdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seikatsu Nouryoku Kaimu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+g6sPxvuM-2RmNGQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seiken no Blacksmith",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/LwTq8lRxmb44ODEx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seiken Tsukai No World Break",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAE2-IiDHjsiW9by5kA",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seikoku no Dragonar",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TZLS1n965DEwZWIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seihantai na Kimi to Boku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9InGWzbC6IRlMzRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seiin high school boys volleyball team",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/DMH1XJgFk8VhNTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seirei Gensouki",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/SeireiGensouki_u",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seishun Buta Yarō (Bunny girl sempai)",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/VCvqGzisZ7UJupEe",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/g2dvQooi4IE0ZjAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai — \\[Completo\\]",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hJF0HU0CM5YzZTkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Seitokai Yakuindomo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/eSouk3YRL145YmQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+EjLUFpb5GsBkMTU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+qBNOCkS8NyY3NGJh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sekaiichi Hatsukoi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/QrDAPXRzowZjNWU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Selector Infected WIXOSS",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jhWFOqzYqa45ZmNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sengoku Youko",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+615ashnjiRQ5MGEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Senpai wa Otokonoko",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4RD6LfD9fI1hZGZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Senran Kagura",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jNFC-INNyIExZWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sentai Red Isekai de Boukensha ni Naru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2Sa9sACzwE83NjEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sentenced to Be a Hero",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+kzUHDV9Hdtc0NGIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sentouin, Hakenshimasu!",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/qBn-iwlcTqQ3YTAx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Servamp",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/G9YyLZ-frsE1NmMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Serial experiments Lain",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/qSUGEYp-wqw0ODMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sewayaki Kitsune no Senko-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5Z7SJcybhJsxZDQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shadows House",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Xckpo-Z4uY80ZjZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shaman King",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/ShamanKing_HD",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shangri-La Frontier",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+o9Vrtlm7QSU1MWQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shibou Yuugi de Meshi wo Kuu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+K4S3AoqTWghiOGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shichisei no Subaru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-l1AEFhI87ozZjY5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shigatsu wa kimi no uso",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/WUgoNU_LY7I5ZjJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UJH5cV8JRYw5YTZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shijou Saikyou no Deshi Kenichi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4CX2U0ZUnjxhN2Ix",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shiki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ANoetZlEzw42NjE5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+CMqZjU8knY1hOTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+lRo5gQkgP7FmNmE5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shin Shirayuki-hime Densetsu Pretear",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Fk2XJ4bYWIs4ODM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinchou Yuusha: Kono Yuusha ga",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFga6i02o9znQ4Tw6A",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xokNE9hz3-U4ZDQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinkalion: Change the World",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jEGtMQ9F7Q1kYTQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shingeki no Bahamut",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/_EZaKQeHpIY0ZWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shingeki no Kyojin",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Dapq7aovNjEyYjBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+T0RYLnmDcmUzMDcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinmai Maou no Testament",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFcoyR17K298U3a8NQ",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinmai Renkinjutsushi no Tenpo Keiei",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yr6cTwsjF-k0YmQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinmai Ossan Bouken-sha",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fAJqSZQdM7k4ODg5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinobi no Ittoki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+arST53ETIfU1MzEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinseiki Evangelion",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/hoG0XlS9qUc0YWMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shin Samurai-den YAIBA",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4qluOjrc__BhZWNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shin Sekai Yori",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/CCjeilwJZ2kzMDI5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shin Tennis no Ouji-sama",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hz_tRFIvyH9hNmJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shinkon Gattai Godannar",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vQwLzR4SYNBlMWNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shiunji-ke no Kodomotachi",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AOJD1gdwwqI4MDkx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SHIROBAKO",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UfAOvbwoTjkyZmYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shokei Shoujo no Virgin Road",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+MCcqKi26FKQ2YzJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SHOKUGEKI NO SOMA",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+eiADxqWmKis0M2Yx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shokugeki no Souma",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/SMdl33ettyVkNDMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shoujo Shuumatsu Ryokou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cA2P0TEc8iIwOTY5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shoumetsu Toshi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+PMuQ25KJ7h44MTJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shunkashuutou Daikousha: Haru no Mai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+WFe3z3DNW8BkZmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Shuumatsu_Nani_sub_esp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shuumatsu no Harem - World's end Harem",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+8qbUSBOj1Kw3ZjFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shuumatsu no Valkyrie",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/wZuj-WkN3aRkMTMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Shuumatsu Touring",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+apERdvVeLkcyNTc5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SI GE YONGZHE",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+t-LHS0AdDf1lMjhh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Silent Witch: Chinmoku no Majo no kakushigoto",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+8q58CvBkf7RiZWNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sirius the Jaeger",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+qfH-TIaFtTE2OWYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SI-VIS: The Sound of Heroes",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+tV74ewO2iollZGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SKET Dance",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ewRZZ0ih2XhkMTgx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SKIP BEAT!",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+OUAD7gubp2g1NTEx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sk8 Infinity",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/RJqQQnoJ9b-z6bL0",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Slam Dunk",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/8mFJCAPrrKczYzMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+THalHqqTKOI2Y2M5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SNOWBALL EARTH",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2GXWfuDFD4YxY2Nh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Solo Leveling",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9vwX_Hf1LjxjZGQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Somali to Mori no Kamisama",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFhyj6vDoSK31j35SA",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sonny Boy",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1gUX4p9Wc4o3N2Mx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sono Bisque Doll wa Koi wo Suru",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3H9AFLg2ywNkMzZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sora no Otoshimono",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/IBImyLUIOes2ZTUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sorairo Utility",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+OwSB-sMPFW9mYzFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Soredemo Sekai wa Utsukushii",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/t5fi8SRyFjM4NmYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sousei no Aquarion",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+zGBireHkAMw5ZmMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sousei no Aquarion: Myth of Emotions",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+K2Wo_EZVjZM0MGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sōsei no Onmyōji",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/U9kGcanzY3icPKlm",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sousou no Frieren",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+MbSZi0ztk51hZjQ5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sounan Desu ka?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFhLD8YNdWB_B8OLsg",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Soul Eater",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/souleater_nao",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Souten Kouro",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NrmSk4dgj0M0NzYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sozai Saishuka no Isekai Ryokouki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+H8Z9yMRfSrtmMDMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Space☆Dandy",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/nuO39jduLzViMDRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Space me, great lord",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/DaWangRa",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Spare Me, Great Lord!",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/DaWangRa",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SPEED GRAPHER",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YS0cERwIvRhlMTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Spirit Master",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TJ9qk97nN781M2U5",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Spy x Family",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+E7Mq3yODGAg5MjIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "S-Rank Monster no \"Behemoth\" Dakedo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AWSfCoin1BBhMTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SSSS.Gridman",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/RDqqOGl8Lxw4YTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Steins;Gate",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/RvOZ3TpPbOoqkZIT",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Strike the blood",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+uHGn8r6Om_xmZTI5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Strike Witches",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/1v6n5ATuZcIyODNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Summer Pockets",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+epSGN9ITrNszMWFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Summer time render",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KgJEyntnWd8xZDg5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Super Cube",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+PRjYwpmpR1Y3NTQx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Super no Ura de Yani Suu Futari",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UJk15R03WR80MWQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Supercampeones",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/phBcOoPxt9w3NGYx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "SUZUKA",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fCQgT2PlsXxiMTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Suzumiya Haruhi Series",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+j5Z35cyDHcpiZGYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sword Art Online SAO",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Oit0VkbTkg85M2Ix",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Sora wa Akai Kawa no Hotori",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FtEai-0sCfpmNTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Special A",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+T-fdnS-QoYQ0ZjBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1-HsK_yQynM3YTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    }
+  ]
+}

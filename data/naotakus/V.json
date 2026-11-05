@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: V"
+  ],
+  "counts": {
+    "total": 10,
+    "withChannels": 10,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Vanitas No Carte",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/vanitassnocart3",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Vampire Dormitory",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+zAb_eB06sOtjZTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Vampire Knight",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/q3iHyqwonfliOWYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Vampire Princess Miyu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IXn2dW9iFRhjZGZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Vatican Kiseki Chousakan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/2qfHq5YblwM1ZDJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Versailles no bara",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+e3ynBuIGH6Q5MzAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Vinland Saga",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/khipHsR9PVIwNTc5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Violet Evergarden",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAawzLuHFUpiM2Fh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Virtual hero",
+      "languages": [
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/1ASWlikVxwpkMzBh",
+          "languages": [
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Vivy: Fluorite Eye's Song",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/gi-zjZTDfWwyMTFh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    }
+  ]
+}

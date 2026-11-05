@@ -1,0 +1,814 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: I"
+  ],
+  "counts": {
+    "total": 48,
+    "withChannels": 48,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Ibitte Konai Gibo to Gishi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+aX1sTo8kukI2MjMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ichiban Ushiro no Daimaou",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NxZA-LgljDpkYjUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ichijyoma Mankitsu Gurashi!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KhBM103tR31mNjRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "ID:INVADED",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+RQRyj74N7J83ODVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "IDOLiSH7",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4GLF26YukillYmUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Idororimidori",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Dp7Vkg06nnU4ZjMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ijiranaide, Nagatoro-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AUAthlrN6blkMTlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ikkitousen",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_Ae-itqYFe0xYTYx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ikoku Nikki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+MDVQ_Ts1PcU0ZDRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Imawa no Kuni no Arisu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+GQy-KRS3yrZkYmRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "ImoCho",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7AweBA5IHKc1ZjMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Inazuma eleven Go",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFcycW4L5zThg5jXuA",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Initial D",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+XSP2CIlUyWQwOWQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Infinite Dendrogram",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Infinite_Dendrogram_SubEspanol",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Infinite Stratos",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_7RWckicVq04ZjVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ingoku Danchi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Qnts54JE2wM5MTY5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Inou-Battle wa Nichijou-kei no Naka de",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xQb031rUmMY2YmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Inukami!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ztE7WdIEWMc0MTU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Inuyasha",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/hwO91mAPeiQzMDkx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Inuyashiki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4QZh3qeKOoMxZDIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Inu × Boku SS",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/2W-c9K9CwDE5YmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Invencible",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Jm2QtSRvvHw3NWNh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Pxm0RGH5bpE5NGE5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai wa Smartphone to Tomo ni",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+D9bijRy2i7UxNjNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Cheat Magician",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Isekai_Cheat_Magician_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/4XXfPfnorN1kYTVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Meikyuu de harem wo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Z8KHR29xy4k5YjQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai no Sata wa Shachiku Shidai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KhpymqqklJhmNjY5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Mokushiroku Mynoghra ~Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5txLrgJ22dE4NTA5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai no Seikishi Monogatari",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6Jhn6Lmo-zYxOWZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Nonbiri Nouka",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+CgSTlJ5C4IU2MGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UdTn54HUc5c0Mzcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Quartet",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FDoti3sfYK8wZGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Ojisan",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+a6wJCQ6scWc4OTAx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Shokudou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1UsgdjpoTLIxODkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isekai Yakkyoku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5glkVHYSVhY4ODIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Iseleve",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Pxm0RGH5bpE5NGE5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ishuzoku Reviewers",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Ishuzoku_Reviwers_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Is the Order a Rabbit?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/BG2zjEQeFOs2Y2Q5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Z72SKhvfj14wMzRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Kyokufuri_Shitai_to_Omoimasu_Sub",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Itazura na Kiss / ITAKISS",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+v-C9zhH8sNJkMDE5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ito Junji: Collection",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cVe5ZK6_FdVmNzQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "itsuka tenma no kuro usagi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFhHfgdSDB2miVXCbw",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Itsudatte My Santa!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9n6cEmikEC1lMWYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Iwamoto-senpai no Suisen",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KDOD_JYE_ztiMWVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ixion Saga DT",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jzu6Q3yBc0MxYjAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Iya na Kao sare nagara Opantsu Misete Moraitai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+N-QsNw5p0ik5MzEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_I",
+      "status": "IMPORTED"
+    }
+  ]
+}

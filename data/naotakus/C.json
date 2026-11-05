@@ -1,0 +1,916 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: C"
+  ],
+  "counts": {
+    "total": 54,
+    "withChannels": 54,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Campione!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Chjt_0iKUfU4MzZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Candy Candy",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/bUNJvKpDvO4wMTJh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Cang Lan Jue",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0vMKkJuAP05jOTM5",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Canvas 2: Nijiiro no Sketch",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+qhO1K8wlc0w5OTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Captain Tsubasa",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+uti1EDqn3VM3Nzcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Cardfight!! Vanguard",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+wuEM4yPaEHIyNTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Carole & Tuesday",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Gy38iStBzvY2Yzkx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CASTLEVANIA",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+C_rIJp5kO_hlNmZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        },
+        {
+          "url": "https://t.me/Castlevania_Latino",
+          "languages": []
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Casshern Sins",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+oy9OoIP6f4sxNzIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CAT'S EYE",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+zCyjvS2Vo5ZiMTIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ceng Jing You Yong Shi",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+lSgiBFBFFZw0NWJh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Celestial Bonds",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+db76-QJDGGo5OGQx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chain Chronicle",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFKKvuItLwNDfhl3Vw",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CHAINSAW MAN",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+l4ziO4tBcxtjOWQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Champignon no Majo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+btM2kDd5r78wMGVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chanto Suenai Kyuuketsuki-chan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+oeSqaNwUyH4zZGI5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Charlotte",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UfYS858octnpPLZZ",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chao Neng Lifang",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+PRjYwpmpR1Y3NTQx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CHERRY MAGIC",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+h9uDqrdIDEw3NGNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chi.: Chikyuu no Undou ni Tsuite",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+rHKNdZ74bEg5Zjgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chibi Sousou no Frieren: Marumaru no Mahou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DS1ZsTenrVhmODEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+8byGDUVpZrI3NGEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chiyu Mahou no Machigatta Tsukaikata",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3D88aTWfbBBiOTQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chobits",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/B-r9QZ3J0LA5ZTUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chou Henshin Cosprayers",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FlXTANYy6Mk4MGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Choujin koukousei-tachi wa isekai demo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFb3lITvaMaN1X4PeQ",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Choujigen Game Neptune",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1MQyD-vcxZtmZWJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Of6TmO7dEAk3ZDUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chu Feng: B.E.E",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+56ypiJGgIr9lZDEx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chuuzenji-sensei Mononoke Kougiroku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Cveon0tD3BcyNGEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chuuka Ichiban",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/CJVY6QbxmHc4OWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Chuunibyou demo Koi ga Shita!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/YKROka-n-dszYjQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Cike Wu Liuqi/Scissor Seven",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fZDpPcd4uCY4MmZh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CINDERELLA CHEF",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2D42IGwn_mJjNzJh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Citrus",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hdefSnQNxUwyNDIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Clannad",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/VMCXps2XDr0pePNx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AcvR0lZ37OY4ODhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Class no Daikirai na Joshi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xau44HBtL5gwOGYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Classroom of the élite",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEexLGjg9Ieb9SIV6w",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Claymore",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFlY1iehKLqlfgFpiw",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Clean Freak! Aoyama-kun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0fgWUr-WaRIwZjUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Clevatess",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-7u8LeCytKE5ZDY5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Clevatess",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+LUTzZzvL0lc5YmZh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CMFU Xueyuan: Wangzi Peng Peng Qiu",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+uY0CZP1KjP00ZDVh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Code:Breaker",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/f4IoEV6nZFs1MDMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CODE GEASS",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KloAgozu5KBmZWFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "COMPASS2.0 ANIMATION PROJECT",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+mVG97NS0eI1iNjJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Cop Craft",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/dJykO--2wVU3MTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Corpse Party",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+42qY-0GSU5thYTVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Corpse Princess",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+67l5Awsi4dhhNWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Cowboy Bebop",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+w-sw7PviNbQ0MDI5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CROSS GAME",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+PgRZ_dkZcJY3Zjdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Cyber City Oedo 808",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+plaBWuDQR-c4MTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "CYBERPUNK: EDGERUNNERS",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9l5oQ6__-qo3Nzcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_C",
+      "status": "IMPORTED"
+    }
+  ]
+}

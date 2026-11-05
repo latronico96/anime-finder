@@ -1,0 +1,572 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: R"
+  ],
+  "counts": {
+    "total": 33,
+    "withChannels": 33,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Radiant",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/S-At16jgMg96L5Ni",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ragna Crimson",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UQ7xTtZAD6E5MGQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Raise wa Tanin ga Ii",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+T12CyPJO6M00Mjhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rakshasa Street",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0N-HKaV0kARjNzEx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rakudai Kenja no Gakuin Musou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Mcr3ljcpKLgwMTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ranma 1/2 (2024)",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0P79ELEcBjw0NWVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ranking of Kings",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+8NB6JP7VTwhiM2Rh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rakudai Kishi No Cavalry",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Rakudai_Kishi_No_Cavalry_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Re:Creators",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/VDggIscwBEgOvuhe",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "RE-MAIN",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ap4VKq0arH5kNTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Re:Monster",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DOijgWXNu6k3ZDIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Re: Zero",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+S1YoOVUM1IxdoZuJ",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time)",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+H-E0ofyaX-s0MzBh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Record of Lodoss War",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Wi6L3JxOYK41MDRh",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Record of Ragnarok",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/wZuj-WkN3aRkMTMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Reincarnation no Kaben",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+QUXsjtitxB9hZjY5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Reiwa no Dara-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+qKJFzW3gIb1iYWZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Release That Witch",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+rj67hGeMUSliZDUx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "ReLIFE",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/2M3NK6W9PFNlMTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Replica datte, Koi wo Suru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+aI4cTH9uiUU5OGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Resident Evil Oscuridad Infinita",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/ResidentEvil_EspLat",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+V6qgDdV54k82ODAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rikishi ni nokuro",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6kLl54ySRG0yYjIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rising Impact",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+uSR1p6BPaP1mYjc5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rock wa Lady no Tashinami deshite",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Jm1GHGn_Q7Y1Zjdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rokka no Yuusha",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/35wy4i75nhM3NDU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rokudenashi Majutsu Koushi to Akachic Records",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAE3V5hGhbPmDtGSpdQ",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rokudou no Onna-tachi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YQ-iogZ4l5MwMDgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Romeo × Juliet",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/QbLCyAEOGboyNjAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rosario Vampire",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/NP36BTmq60YwYTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rozen Maiden",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+EQjB_h-ofc84MDIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Rurouni Kenshin (Samurai X)",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/3sfSCNkxARcxZjhh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jlkiEK56f9ZiMmRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "telegram_export_L-Z",
+      "status": "IMPORTED"
+    }
+  ]
+}

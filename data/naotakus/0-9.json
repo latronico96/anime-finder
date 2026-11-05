@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: 0-9"
+  ],
+  "counts": {
+    "total": 18,
+    "withChannels": 18,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "07 Ghost7",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/iS9mTLAGbQJhMjlk",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "1+2= Paradise",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/CbgVSmHBswowODE8",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "100-man no Inochi no Ue ni Ore wa Tatte Iru",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+w3QSnjBtv2s4MjE5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "100-nin",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4X0vo_f_qP8wNzBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "11 Eyes",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/T2Zjx3sef39iOGQ8",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "12.:Chicchana Mune no Tokimeki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/dPq4B0jhwExjN2U0",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "18if",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/89feRzr8TEJkYzhk",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "2x2 Shinobuden",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/vzL9TgRTTIg1YmI0",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "2.5 Jigen No Ririsa",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/jigennoririsaTv",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "22/7",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/SIR8GrY9pz41NWNk",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "25-Sai no jyoshikousei",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/kTh8R6HdfRdmZDVk",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fK-jKHDaYtcyYzZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "30-sai hizo Doutei dato Mahoutsukai ni Nareru Rashii",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+h9uDqrdIDEw3NGNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "3-Gatsu no Lion",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Kd7weK90AiQzNTI0",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "4 Cut Hero",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+t-LHS0AdDf1lMjhh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "86 EIGHTY-SIX",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/GajIXn4w625jNGMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "9-nine- Ruler's Crown",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_CIYy2GjVLI3OTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "91 Days",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VU2lUYuldW9lYTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A-K",
+      "status": "IMPORTED"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: E"
+  ],
+  "counts": {
+    "total": 17,
+    "withChannels": 17,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Eden",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/-hq9im29HcI2MWI5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Edens Zero",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TjB2lxRQLp03ZmIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Egao no Taenai Shokuba desu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+G87slWF7SylmNmYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Eiken: Eikenbu yori Ai wo Komete",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+gKWM8RNZjfY1Mzkx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Eiyuu Kyoushitsu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+coys9mPkp882ZWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yJQB5c-Me2E5NTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Elfen Lied",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFBgIe0RjYW8UQE_aQ",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "El Ascenso del Héroe del Escudo",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFTJkp0Q0UHfeSERLQ",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Eminence in Shadow",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+snw1iyKi1mlkNDMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Emiya-san Chi no Kyou no Gohan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YIME_xa7x-xiNTNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Endro~!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3GM6iivmdDQyMTlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Enen no Shouboutai (Fire Force)",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/LW0b1Mj9BUsxODFh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Engage Kiss",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+d5vpJJs20V1hMjMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Enmusubi no Youko-chan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9nq-0RnOvX1iNGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Erased",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4XxLxfo7tsQ4ZTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Eris no Seihai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+iO_4lHOVF4NlOTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Eromanga Sensei",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NAj7Z4mWdCtjNWRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_E",
+      "status": "IMPORTED"
+    }
+  ]
+}

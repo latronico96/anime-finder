@@ -1,0 +1,1114 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: B"
+  ],
+  "counts": {
+    "total": 65,
+    "withChannels": 65,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Baban Baban Ban Vampire",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+nkxZHP0rWiY0NjRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Babylon",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Babylon_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bad Girl",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+V1tx_mwGZcA3ZDZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bai Ri Cheng Wang",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5kmG7V2XG89mYTRh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Baki",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+R1zEccN970NhMGMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BAKI-DOU",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+CF281-Jd5gg0Mjg5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bakugan Battle Brawlers",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/BakuganBattleBrawlerss",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bakuman.",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TjG9gqxnqEVkYjNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bakuten!!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/REYZytKJnIoxZjhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ballpark de Tsukamaete",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KbOhsx6Ia89jMGIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ballroom e Youkoso",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vfb4EOVRk3M1YzBh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BanG Dream! Ave Mujica",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jc44HohfAVM2MDUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Banana Fish",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/DAW4J8Mym9c0NWNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bastard",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+EkPczS3z8ik5ZjJh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Baraou no Souretsu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+o4Tmvj0uxPlkYzRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Baraou no Souretsu",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_Gri1P7LIk0wZjlh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bartender",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7SHHa4eKvzw2ZTFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Basilisk The Kouga Ninja Scrolls",
+      "languages": [
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/basilisk_AudioCast",
+          "languages": [
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Battle Athletess Daiundoukai ReSTART!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/wQ6Bj1rsXotkMDlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BEASTARS",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/UZbitjPgv2wCNB0r",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BEELZEBUB",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+XrHwe1H-YopmMGRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BeheNeko",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AWSfCoin1BBhMTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Beyblade X",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+QUtMOZMrc6RmMTAx",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Berserk (1997)",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/berserk_AudioCast",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BIKINI WARRIORS",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+aRv9kOIY-MU0ZmNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+JSrfqWc476Y3YTkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bishounen Tanteidan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/wb8ucgtExGw3YzMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Black cat",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Gr3Tn1zFjBQ0Mjk5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Black Clover",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IpVK0TU3Y15lY2Fh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Black Jack",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ZbUjA5cqNiI4ODIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Black ★ Rock Shooter",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/3AfhvXarH8A2OGIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Black Torch",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+LvrKhC9nDpMzOTcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blade & Soul",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+InZH7-70mTY2YmM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bleach",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFExIFMUdPxVLe6vvg",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blend S",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/gvB61sS1QOJjODcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Benghuai Xing He",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/DB68CqOQ3mM2Y2Qx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blood +",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7982CvzDcBFmZjIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blood C",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+T7BF9elutv9kMjBh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blood Lad",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/80ebJembcx5iMzg8",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blood The last Vampire",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+e3ynBuIGH6Q5MzAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BLUE EYE SAMURAI",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_jadR0QAqpo5Y2Yx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blue Exorcist",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+SDD8ORYMR6MxZDkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BLUE GENDER",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+11bCfUAbYZk2MGRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blue Lock",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+lAcA1iKav3o4NGUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Blue Period",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Qp91ox8BPbpmN2Vh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BNA: Brand New Animal",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_AIPnpiZiCUzZDA5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bocchi the rock!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+eTn_8qS1TCI0ZDZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BOFURI",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Kyokufuri_Shitai_to_Omoimasu_Sub",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Boku dake ga Inai Machi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4XxLxfo7tsQ4ZTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Boku No Hero",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ir8XosYsvBc0MjY5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Boku no Kokoro no Yabai Yatsu",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+d-LRtplsV_JhOTc5",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bokura wa Minna Kawai-sou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0bRaWCXH7uE2OWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bokutachi wa Benkyou ga Dekinai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+oPg1jpSbI5E0NjE5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Botsuraku Yotei no Kizoku dakedo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+u4UicIDuzMAyZjAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Boushoku no Berserk",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_OeCwf5iH6kxMDYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "BTOOOM!",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4bRUHyeTOfRlZGZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Buddy Daddies",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Ru00bQ_QH8RjMjgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bucchigiri?!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fvvaovDNtEg3OGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+z5FlyNSIlqthOTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bukiyou na Senpai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+JDaChLxeLJBhNmE5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bullet/Bullet",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+V6_Sokv6GjFjYjMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Bungou Stray Dogs",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DQ37wAm8V7wyYjdh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Busou Shoujo Machiavellianism",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/5-UAp1hKw805MTZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Busu ni hanataba wo.",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+K6ZO1uj5xeo0OGQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Buttobi!! CPU",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+mL290waTk-k0OTRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_B",
+      "status": "IMPORTED"
+    }
+  ]
+}

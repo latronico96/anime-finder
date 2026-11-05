@@ -1,8 +1,6 @@
 import { webhookCallback } from "grammy";
 import { bot } from "../../../../lib/telegram/bot";
 
-export const runtime = "nodejs";
-
 const handleUpdate = webhookCallback(bot, "std/http");
 
 export async function POST(request: Request) {

@@ -31,16 +31,19 @@ export async function searchAnime(query: string) {
     },
     include: {
       aliases: true,
+      channels: {
+        where: {
+          telegramChannel: {
+            isActive: true,
+          },
+        },
+        include: {
+          telegramChannel: true,
+        },
+      },
     },
     take: 50,
   });
-
-  // Orden de relevancia:
-  // 1. Título principal exacto.
-  // 2. Alias exacto.
-  // 3. Título que comienza con la búsqueda.
-  // 4. Alias que comienza con la búsqueda.
-  // 5. Coincidencias parciales.
 
   function getScore(anime: (typeof animes)[number]) {
     const title = anime.normalizedTitle;

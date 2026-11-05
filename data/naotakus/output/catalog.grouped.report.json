@@ -1,0 +1,533 @@
+{
+  "inputCount": 1232,
+  "outputCount": 1173,
+  "mergedCount": 59,
+  "equivalenceGroupsConfigured": 57,
+  "equivalenceGroupsApplied": 57,
+  "missingTitles": [],
+  "review": [
+    {
+      "titles": [
+        "Blood The last Vampire",
+        "Kimi no na wa"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "Koe no Katachi",
+        "Metoporisu"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "Versailles no bara",
+        "Blood The last Vampire"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "100-nin",
+        "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "Digimon Adventure 2020",
+        "Digimon Latino"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "Mahou Sensei Negima! Series",
+        "UQ Holder!"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "Mahoutsukai Reimeiki",
+        "Zero Kara Series"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "Space me, great lord",
+        "Spare Me, Great Lord!"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    },
+    {
+      "titles": [
+        "Alice in Borderland",
+        "Imawa no Kuni no Arisu"
+      ],
+      "reason": "Compartían un canal, pero no se confirmó que sean el mismo anime. No se fusionaron."
+    }
+  ],
+  "groups": [
+    {
+      "canonicalTitle": "Shingeki no Kyojin",
+      "foundTitles": [
+        "Shingeki no Kyojin",
+        "Attack on Titan",
+        "Ataque a los Titanes"
+      ],
+      "mergedCount": 3
+    },
+    {
+      "canonicalTitle": "Kage no Jitsuryokusha ni Naritakute!",
+      "foundTitles": [
+        "Kage no Jitsuryokusha ni Naritakute!",
+        "Eminence in Shadow",
+        "The Eminence in Shadow"
+      ],
+      "mergedCount": 3
+    },
+    {
+      "canonicalTitle": "Ansatsu Kyoushitsu",
+      "foundTitles": [
+        "Ansatsu Kyoushitsu",
+        "Assassination Classroom"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Ao no Exorcist",
+      "foundTitles": [
+        "Ao no Exorcist",
+        "Blue Exorcist"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "BeheNeko",
+      "foundTitles": [
+        "BeheNeko",
+        "S-Rank Monster no \"Behemoth\" Dakedo"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "BOFURI",
+      "foundTitles": [
+        "BOFURI",
+        "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Boku dake ga Inai Machi",
+      "foundTitles": [
+        "Boku dake ga Inai Machi",
+        "Erased"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Cang Lan Jue",
+      "foundTitles": [
+        "Cang Lan Jue",
+        "Love Between Fairy and Devil"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Celestial Bonds",
+      "foundTitles": [
+        "Celestial Bonds",
+        "Xian Chong"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Chao Neng Lifang",
+      "foundTitles": [
+        "Chao Neng Lifang",
+        "Super Cube"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Cike Wu Liuqi",
+      "foundTitles": [
+        "Cike Wu Liuqi/Scissor Seven",
+        "Scisor seven"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "CINDERELLA CHEF",
+      "foundTitles": [
+        "CINDERELLA CHEF",
+        "Meng Qi Shi Shen"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Classroom of the Elite",
+      "foundTitles": [
+        "Classroom of the élite",
+        "Youkoso Jitsuryoku Shijou Shugi No Kyoshitsu E"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Clean Freak! Aoyama-kun",
+      "foundTitles": [
+        "Clean Freak! Aoyama-kun",
+        "Keppeki Danshi! Aoyama-kun"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Demon King Daimaou",
+      "foundTitles": [
+        "Demon King Daimaou",
+        "Ichiban Ushiro no Daimaou"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Kimetsu no Yaiba",
+      "foundTitles": [
+        "Kimetsu No Yaiba",
+        "Demon Slayer"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Dragon Girl Problem",
+      "foundTitles": [
+        "Dragon Girl Problem",
+        "Yonghansonyeo"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "DRAGON RAJA",
+      "foundTitles": [
+        "DRAGON RAJA",
+        "LONG ZU"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Dragonar Academy",
+      "foundTitles": [
+        "Dragonar Academy",
+        "Seikoku no Dragonar"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Fire Force",
+      "foundTitles": [
+        "Fire Force",
+        "Enen no Shouboutai (Fire Force)"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Failure Frame",
+      "foundTitles": [
+        "Failure Frame",
+        "Hazurewaku no \"Joutai Ijou Skill\""
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Fena Pirate Princess",
+      "foundTitles": [
+        "Fena Pirate Princess",
+        "Kaizoku Oujo"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Frieren",
+      "foundTitles": [
+        "Frieren",
+        "Sousou no Frieren"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Hell's Paradise",
+      "foundTitles": [
+        "Hell's Paradise",
+        "Jigokuraku"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "ImoCho",
+      "foundTitles": [
+        "ImoCho",
+        "Saikin, Imouto no Yousu ga Chotto Okashiinda ga"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Iseleve",
+      "foundTitles": [
+        "Iseleve",
+        "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Koutetsujou no Kabaneri",
+      "foundTitles": [
+        "Koutetsujou no Kabaneri",
+        "Kabaneri: La Fortaleza de Hierro"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Tower of God",
+      "foundTitles": [
+        "Tower Of God",
+        "Kami no Tou"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Kaoru Hana wa Rin to Saku",
+      "foundTitles": [
+        "Kaoru Hana wa Rin to Saku",
+        "The Fragrant Flower Blooms with Dignity"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Mobile Suit Gundam 00",
+      "foundTitles": [
+        "Mobile Suit Gundam 00",
+        "Kidou Senshi Gundam 00"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Konosuba!",
+      "foundTitles": [
+        "Konosuba!",
+        "Kono Subarashii Sekai ni Shukufuku"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Love of Kill",
+      "foundTitles": [
+        "Love of Kill",
+        "Koroshi Ai"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Vampire Princess Miyu",
+      "foundTitles": [
+        "Vampire Princess Miyu",
+        "Kyuuketsuhime Miyu"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Saiki Kusuo no Psi-nan",
+      "foundTitles": [
+        "Saiki Kusuo No Psi Nan",
+        "La Desastrosa Vida de Saiki"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "La Leyenda de Hei",
+      "foundTitles": [
+        "La Leyenda de Hei",
+        "Luo Xiaohei Zhanji"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Left-Hand Layup",
+      "foundTitles": [
+        "Left-Hand Layup",
+        "Zuoshou Shanglan"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Record of Lodoss War",
+      "foundTitles": [
+        "Record of Lodoss War",
+        "Lodoss-tou Senki"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Nanatsu no Taizai",
+      "foundTitles": [
+        "Nanatsu no Taizai Latino",
+        "Los 7 Pecados Capitales"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Neon Genesis Evangelion",
+      "foundTitles": [
+        "Neon Genesis Evangelion",
+        "Shinseiki Evangelion"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Wolf Girl & Black Prince",
+      "foundTitles": [
+        "Wolf Girl & Black Prince",
+        "Ookami Shoujo to Kuro Ouji"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Solo Leveling",
+      "foundTitles": [
+        "Solo Leveling",
+        "Ore dake Level Up na Ken"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Ousama Ranking",
+      "foundTitles": [
+        "Ousama Ranking",
+        "Ranking of Kings"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Platinum End",
+      "foundTitles": [
+        "Platinum End",
+        "Purachina Endo"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Pop Team Epic",
+      "foundTitles": [
+        "Pop Team Epic",
+        "Poputepipikku"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "The King's Avatar",
+      "foundTitles": [
+        "The King's Avatar",
+        "Quan zhi gao shou"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Yakuza Fiancé",
+      "foundTitles": [
+        "Yakuza Fiancé",
+        "Raise wa Tanin ga Ii"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Record of Ragnarok",
+      "foundTitles": [
+        "Record of Ragnarok",
+        "Shuumatsu no Valkyrie"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Sentenced to Be a Hero",
+      "foundTitles": [
+        "Sentenced to Be a Hero",
+        "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "The Last Summoner",
+      "foundTitles": [
+        "The Last Summoner",
+        "Zuihou de Zhaohuan Shi"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "The Promised Neverland",
+      "foundTitles": [
+        "The Promise No Neverland",
+        "Yakusoku no Neverland"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "4 Cut Hero",
+      "foundTitles": [
+        "4 Cut Hero",
+        "SI GE YONGZHE"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Fangkai Nage Nuwu",
+      "foundTitles": [
+        "Fangkai Nage Nuwu",
+        "Release That Witch"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Fog Hill of Five Elements",
+      "foundTitles": [
+        "Fog Hill of Five Elements",
+        "Wu Shan Wu Xing: Xichuan Huan Zi Lin"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Lord of Mysteries",
+      "foundTitles": [
+        "Lord of Mysteries",
+        "Guimi Zhi Zhu: Xiaochou Pian"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "MUGEN GACHA",
+      "foundTitles": [
+        "MUGEN GACHA",
+        "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "The Beginning After the End",
+      "foundTitles": [
+        "The Beginning After The End",
+        "Saikyou no Ousama"
+      ],
+      "mergedCount": 2
+    },
+    {
+      "canonicalTitle": "Spirit Master",
+      "foundTitles": [
+        "Spirit Master",
+        "Yu Ling Shi"
+      ],
+      "mergedCount": 2
+    }
+  ]
+}

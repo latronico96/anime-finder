@@ -1,0 +1,906 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: G"
+  ],
+  "counts": {
+    "total": 53,
+    "withChannels": 53,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "GACHIAKUTA",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+O_Bc098g7W8yNDdh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+rDqWpOtjFQI0NTkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gakkou Gurashi!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+uImcCyasurQ2ZmUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gakuen Alice",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+C7-ypYtIltZkMmQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gamers!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Q1NYG9c0_1E1ZmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ganbare! Nakamura-kun!!",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+u3lvCd1SBREzMzJh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gangsta",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+iohgSR_n6g43ZjNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GANTZ",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-EBYYLWNXt43MWYx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gasaraki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+LmYk-tGv0XExZWFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gensou Sangokushi: Tengen Reishinki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+kPsalDbTpmk3ZDIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GATE",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+j03hyKGZTeMzMTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gegege no Kitarou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+EmgbU40PpQdkMjUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gekai Elise",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+N2xoqIVuUjBmNDkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gekkan Shoujo Nozaki-kun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+km4rFglXXZ81ZmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GetBackers",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/q4ya2qzTOcYxYWY5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Getsuyoubi no Tawawa",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0dBQ2h5BHkYyNTRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GHOST CONCERT",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+F0nKh3QGV2cyOTkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GHOST IN THE SHELL",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+K6X_tY_NqwY5ZTlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Giant Killing",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jPgDWtjhA6RmNzhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ginga Tokkyuu MILKY☆Metro",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3o-OyPY0TtVjMTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GINTAMA",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9a9NmjCUluBhYzQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GIRLS BRAVO",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cIuVcC6dEr4yY2Nh",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Girls und panzer",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vTugTGpPBthhMTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Giru Masu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+-yp4eiBIRuc1NGI5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GIVEN",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+aKTGmMbCjtNlMzFh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gleipnir",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Gleipnir_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GNOSIA",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ccwfleevxuk4NmYx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Goblin slayer",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/kOTrTC2q9s0wZWMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "God Eater",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+775qYlb4TB40ZTU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Godzilla S.P",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/GodzillaSP_SubEsp",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gokushufudo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/0onqQBssGoM1M2Jh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Golden Boy",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/1Kyb8y-DYQY3ZWJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Golden Kamuy",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+iJLdnChew2A5NjA5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Golden Time",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B4ueY_TufWA3OTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gorilla no Kami kara Kago sareta Reijou",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+05UwaUw3tRs1NmY5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gosick",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEdtz1mFsIHBMr7z5Q",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gotoubun no Hanayome",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/RiKAW-Gdp0UR2TJe",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0EmOUeT2oUM0ZTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Goumon Baito-kun no Nichijou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+wqugrZX3Y8s2ZTlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Grand Blue",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/eEE5dqmRc9I1YTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gravitation",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+wVLs80D03XAyNTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Great Teacher Onizuka",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+l68F0raYYSQ1NjQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Grow Up Show ~Himawari no Circus-dan~",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+kwrKdThvW6FiYWZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gu Wei Nan Ting",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+rfApyZ5NqHQ5ZWEx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gugure! Kokkuri-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/-3rHRVwlKNY5ZTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Guilty Crown",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+SwPnEyRmZPKnjdYf",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GUILTY GEAR STRIVE",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yxurbOODBEYwZjEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Guimi Zhi Zhu: Xiaochou Pian",
+      "languages": [
+        "CHINESE_SUB",
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+JZdznd3YC6o1Mjcx",
+          "languages": [
+            "CHINESE_SUB",
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "GUIN SAGA",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+KcqX9sV7WXM0MjZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gun frontier",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+amOdV1iBkqdhYTI5",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gundam Wings",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/VrqNDQemU5Tn6m_L",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gungrave",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+RWmSnO5AbRs3OTgx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Gunslinger Girl",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/3ZBz96D-qwVmNzQx",
+          "languages": []
+        },
+        {
+          "url": "https://t.me/+NJYUPQ7JnWFiYjUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_G",
+      "status": "IMPORTED"
+    }
+  ]
+}

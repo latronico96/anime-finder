@@ -1,0 +1,1051 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: D"
+  ],
+  "counts": {
+    "total": 61,
+    "withChannels": 61,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "DA WANG RAO MING",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+OORmmDOaZ9gyZWEx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Daikenja Riddle no Jikan Gyakkou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+X7UfBQRV17phYzdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dakaretai Otoko 1-i ni Odosarete Imasu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/jLCOWjUsgBdjZmFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "DAN DA DAN",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "http://t.me/Dandadan_Latino",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "DANDELION",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ztr_8OxCREpkNzVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Danmachi",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEcdLelP_sE86zxh4g",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Danmachi Latino",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Danmachi_EspLatino",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+wEWeQZW570QzYWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Danganronpa",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/WQRTrW4V4SRtjSZI",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+RInntQGv94o5YmVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Darling In The Franxx",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+C2xI-PIQ1MA1NTZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dark Gathering",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+bqtNokMdXJEzNTMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dark Moon: Tsuki no Saidan",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+b5gdtXvO4N1kOGU5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Darker than Black",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/EK_FkUSY9pNiOWNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Darwin Jihen",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+MdIE_xl3EFViODYx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Darwin’s Game",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAE2EVryg5J4aeKG6Sg",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Danshi Koukousei No Nichijou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+zW0B9ukWB5gwMWFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Date a Live",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vY5IUErs-qk3ZGIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dead Account",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+JGFvaSjlKRwyZmYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dead Mount Death Play",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Kcfa_Hzzcp01NDAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Deadman Wonderland",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEruC3ZNoQMehGEXqw",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Death Note",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Tw1-D3MjNjsrZZ6K",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Death Parade",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/rhw1J742SUVhNTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Deatte 5-byou de Battle",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+uwl0s5p6rDI3MjZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Debu to Love to Ayamachi to!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IX7O94LxD3QwNTNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Deca-Dence",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+k7zzcMLEftVlZTFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Delico's Nursery",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+iB8uEzPFxFVlNmMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Demi-chan wa Kataritai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+az5QK14zFBU3OGEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Demon King Daimaou",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NxZA-LgljDpkYjUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Demon Slayer",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yKYK-VKahcczOGUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Detective Conan",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/DetectiveConanLatinoamerica",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Devilman: Crybaby",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9p1jU4lbJEo1Njhh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Devil May Cry",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+mhw0OCvpy0RhY2Ux",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Diabolik Lovers",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/4MhdMrncdFpmY2E5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Diamond no Ace",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+E7JjY7H8JA5hNGJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dies Irae",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/U_aKdPIKffPqc0U4",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Digimon Adventure 2020",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+COhMZuNlfpVmYjg5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Digimon Latino",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+COhMZuNlfpVmYjg5",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Disney Twisted-Wonderland The Animation",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+h_tyHpYCyMg0ZDEx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "D.Gray-Man",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/4MAEjaT8DRU4NjNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Do It Yourself!!",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4HSktgG-xZ9hNGEx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dog Days",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/k5jINTm81xdlYTFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dokyuu Hentai HxEros",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/wjTIVmbyFwY4NWJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Domestic na Kanojo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+eOyxlMA2iaBjZTk5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "DOROHEDORO",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Dorohedoro_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        },
+        {
+          "url": "https://t.me/+UBIXYEwwJVM2ZTUx",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dororo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/TsKpyJSY3i_nd1xQ",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dota: Sangre de dragon",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YKHYpXav_ilhMTNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Double Life",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAE_DiftClXjMCYBpHw",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Doukyonin wa hiza tokidoki atama no",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEjU9phS-VYTTGWKjA",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Douse, Koishite Shimaunda",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xqLcoGmmOMVjMGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dr Stone",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+c1ig8NpGUHQzMTNh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dragon Ball DAIMA",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ki95uIHerXg4YTVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dragon Ball Series",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/VsclfMDt1orcUMST",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dragon Girl Problem",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+rNup2TijccUxMTIx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "DRAGON RAJA",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+L6GnBxCbV_hkYmRh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dragonar Academy",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TZLS1n965DEwZWIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "DRAMAtical Murder",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+WyhlB3H69ypkNDhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Drifters",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+b3Mq8xsiUIo5NjFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dumbbell Nan Kilo Moteru?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Dumbbell_Nan_KiloMoteru",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Rx0t6U_-wTzrPGHi",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Durarara!!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3YZIYFq5aSQ5YzEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_D",
+      "status": "IMPORTED"
+    }
+  ]
+}

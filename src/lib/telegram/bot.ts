@@ -33,22 +33,81 @@ bot.command("buscar", async (ctx) => {
       return;
     }
 
-    const message = results
-      .map((anime, index) => {
-        const year = anime.year ?? "Año desconocido";
-        const description = anime.description ?? "Sin descripción.";
+    const languageNames: Record<string, string> = {
+      JAPANESE_SUB: "🇯🇵 Japonés subtitulado",
+      CHINESE_SUB: "🇨🇳 Chino subtitulado",
+      LATINO: "🇲🇽 Latino",
+      CASTILIAN: "🇪🇸 Castellano",
+      UNKNOWN: "🌐 Idioma no especificado",
+    };
 
-        return (
-          `${index + 1}. 📺 ${anime.title}\n` +
-          `📅 ${year} · ${anime.type}\n` +
-          `${description}`
-        );
-      })
-      .join("\n\n");
+    const animeMessages = results.map((anime, index) => {
+      const year = anime.year ?? "Año desconocido";
+      const description = anime.description
+        ? anime.description.slice(0, 250) +
+        (anime.description.length > 250 ? "..." : "")
+        : "Sin descripción.";
 
-    await ctx.reply(
-      `🔎 Resultados para "${query}":\n\n${message}`
-    );
+      const channelsByUrl = new Map<string, Set<string>>();
+
+      for (const relation of anime.channels) {
+        const channel = relation.telegramChannel;
+        const url = channel.publicUrl ?? channel.inviteUrl;
+
+        if (!url) continue;
+
+        if (!channelsByUrl.has(url)) {
+          channelsByUrl.set(url, new Set());
+        }
+
+        channelsByUrl.get(url)!.add(relation.language);
+      }
+
+      const channelLines = Array.from(channelsByUrl.entries())
+        .map(([url, languages]) => {
+          const labels = Array.from(languages)
+            .map((language) =>
+              languageNames[language] ?? "🌐 Otro idioma"
+            )
+            .join(" · ");
+
+          return `${labels}\n🔗 ${url}`;
+        });
+
+      const channelsText = channelLines.length > 0
+        ? "\n\n" + channelLines.join("\n\n")
+        : "\n\n⚠️ No hay canales disponibles.";
+
+
+      return (
+        `${index + 1}. 📺 ${anime.title}\n` +
+        `📅 ${year} · ${anime.type}\n\n` +
+        `${description}` +
+        channelsText
+      );
+    });
+
+    await ctx.reply(`🔎 Resultados para "${query}":`);
+
+    let message = "";
+
+    for (const animeMessage of animeMessages) {
+      const nextMessage = message
+        ? `${message}\n\n━━━━━━━━━━━━━━\n\n${animeMessage}`
+        : animeMessage;
+
+      if (nextMessage.length > 3500) {
+        await ctx.reply(message);
+        message = animeMessage;
+      } else {
+        message = nextMessage;
+      }
+    }
+
+    if (message) {
+      await ctx.reply(message);
+    }
+
   } catch (error) {
     console.error("Error buscando anime:", error);
 

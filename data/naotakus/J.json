@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: J"
+  ],
+  "counts": {
+    "total": 22,
+    "withChannels": 22,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Jahy-sama wa Kujikenai!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+nGVsgwWTcehhNDdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jaku chara tomozaki kun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/WCph9ilD2NI0RU-V",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jibaku Shōnen Hanako-kun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Jibaku_Shonen_Hanako_kun_Sub",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cP1Fi3Inv4UxYmNh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jiisan Baasan Wakagaeru",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+a-gANYerJXE3OTUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jigokuraku",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+P1_mDVeWtrUzM2Jh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jigoku Sensei Nube (1996)",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FpfZQPrzdJw4MDRh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jigoku Sensei Nube (2025)",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NUjdwTny9Xc5NzFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jigoku Shōjo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/qQa9PDjaGmo5OTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+dWLIs2rT44ZmOGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+8OP6vKr9Pc8yMTA5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jitsu Wa Ore Saikyou Deshita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vTh8FV5ZGPoxM2Q5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jitsu wa Watashi wa",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+44mNKrKeendkYzU5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jiyi Guanli Ju (2026)",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xZtlMcl46f9hZjcx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Joker Game",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0IPAUBKjWsM0Njlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jojo Bizarre Adventure The Animation",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAE4b_S33iV4ASn25uA",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jojo Bizarre Adventure The Animation",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Zg1eM2V5PP9kNmZh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Joshiraku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+zoaKaJQSeok3MWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1quNdf3Aoh81Njdh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Jungle de Ikou!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0LGcF-sRza00ZTZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Junjou Romantica",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/GTCH504bCh1jYWMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Juuni Taisen",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cWJ9JvYwrSA5N2Vh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_J",
+      "status": "IMPORTED"
+    }
+  ]
+}

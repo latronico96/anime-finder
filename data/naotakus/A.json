@@ -1,0 +1,1148 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: A"
+  ],
+  "counts": {
+    "total": 68,
+    "withChannels": 68,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "A.D. Police",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+x6tNnjrUenFjMzUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "A Certain Scientific Accelerator",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEnixVubIemulsJjjA",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Absolute Duo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFNJy7LBfOnbfK_wRw",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Acchi Kocchi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+XQCv8n2_mYYwMGRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Acro Trip",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2LBsMy7DS6xlNzM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Afro Samurái",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/7vq86vmVfnk2MjZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aggretsuko (Aggressive Retsuko)",
+      "languages": [
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Aggretsuko_AudioCast",
+          "languages": [
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aharen-San wa Hakarenai",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ZT-MQYdIXuE2MzUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aharen-san wa Hakarenai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7t7nNPXiOWNkMTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aharen-san wa Hakarenai",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+BctWTKWY0TM5NTkx",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ahiru no sora",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAE6RnRVRNOB4SCXTsw",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "AIKA",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+BKwmPGKRXqhhYjZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Air",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/0PLaiDSZ5183NDVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Air gear",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/eHmjxEPuFGBjYzk5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aishang Ta de Liyou",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+O__hWTuCJKdiMDBh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aishen Qiaokeli-ing",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+h2D7tPASlxlkMGVh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aishiteru Game wo Owarasetai",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YUqrXACd_503YzUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ajin",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+go22s4-rLvs0Y2Jh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akagami no Shirayuki-hime",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/AkagamiNoShirayuki_Hime",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akame Ga Kill",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Akame_Ga_Kill_SubEsp",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akane-banashi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fXmfa7CbHf5jODlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akatsuki no yona",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/jNZ1EgjvVYs0ODQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akebi-chan no Sailor-fuku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7Y2O6_pN60Q2MWQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aku no Hana",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Sa9FfriCtRIwYzkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "AKUDAMA DRIVE",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B1EUsdLv1uRlNmUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VkSIG7jUSc4zOTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akuyaku Reijou Level 99",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+uLAGrQcdmOYwYWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Akuyaku Reijou Tensei Oji-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6Dk_l4HS-F85OWJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aldnoah.Zero",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TSmu80iPVt5mZGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Alice in Borderland",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+GQy-KRS3yrZkYmRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Alma-chan wa Kazoku ni Naritai",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+oPdfHyAGH9liNDM5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Amagami SS",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Skqd5hzoRQEwOGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Amagami-san Chi no Enmusubi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6Kbw8EkWgrswNjhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Amagi Brilliant Park",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FkxJg924K_gyODgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Amasando Ja-pan (Yakitate!! Japan)",
+      "languages": [
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Amasando_japan_AudioCast",
+          "languages": [
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ame to Kimi to",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1tZbmE0XQRY4Yzgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Amnesia",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+CUDsErD8xiYxYTVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VlfnjanbBsQ2Mzhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Angel Beats!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xJhTD2UfbFA3Njlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Angolmois: Genkou Kassenki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+fDW02omThBNjNDcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Anime-Gataris",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+GxYM4OAD6vIwZTNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ansatsu Kyoushitsu",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+T6bsRaUyBx80Mjlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+vV4CzAvFt9kzMjhh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Anne Shirley",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7Iga8hdOxRc0MWE5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ano Natsu de Matteru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+GiNFcpXevSw4MWVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "AnoHana",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+PQziXBojngtiOTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Another",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+WKA69SJraFluXgia",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ao ashi",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3AH2S2amp905MGEx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ao Haru Ride",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4D737E-lcMhkM2Rh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ao no Exorcist",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+SDD8ORYMR6MxZDkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ao no Hako: Blue Box",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5rsgqEMLb60wODlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ao no Kanata four Rhythm",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cvM23GeTAntmOTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ao no Miburo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+I6baOyxgu6pmYWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ao no Orchestra",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+I-u1pf4GaDNmNmVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aoi Bungaku Series",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4FexPfPKN6thMWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Appare-Ranman",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jWtFK82TYRk1Mzg5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1slAd35ecsYwYTZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Arifureta Shokugyou de Sekai Saikyou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAFedl8zrcYm7zP5yig",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Arknights!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+bWnfKUNddrQ3ZDFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Arne no Jikenbo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+zprDAQ1WiT1kNTVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Aru Majo ga Shinu Made",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NpnT4D6602c1MTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Asobi Asobase",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/3JVJ_0ZvPNU3ZDYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Asobi ni Iku yo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/n87H1AIkov45Nzcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Assassination Classroom",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+T6bsRaUyBx80Mjlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Assassins Pride",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/UQjlM-JVgG9dxYUl",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Ataque a los Titanes",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Dapq7aovNjEyYjBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Attack on Titan",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Dapq7aovNjEyYjBh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Azumanga Dahio",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Ca7qiVRExOQ4M2Ix",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_A",
+      "status": "IMPORTED"
+    }
+  ]
+}

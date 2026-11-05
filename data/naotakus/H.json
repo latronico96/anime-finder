@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: H"
+  ],
+  "counts": {
+    "total": 29,
+    "withChannels": 29,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Hachi-nan tte, Sore wa Nai deshou!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ksIMzsRiwQ9hNDEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Haibara-kun no Tsuyokute Seishun New Game",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YFcwsc2f_JpmNTNh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Haigakura",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hpv9dRuU1uZkNDAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hagure Yuusha no Estetica",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Lx2MJmvsaHNhN2Fh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Haikyuu",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Haikyuu_Sub_Lat_Cast",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Haite Kudasai, Takamine-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+CywXjFQ_NiM5Njc5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Haiyore! Nyaruko-san",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3HwJLrk2ptYzZDZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hajime no Ippo",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/T_r7e0J8w6Sw4kNo",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hajimete no Gal",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ZGxl-vzixFo2NWMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hakkenden: Touhou Hakken Ibun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/TwzLR-fxcYg2MDIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hakumei to Mikochi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6OaHxYJc3TkxMmYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hamatora the Animation",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NXh3GToqUcNkMzMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hametsu no Oukoku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6SLTNyYufEc1YmIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hana wa Saku, Shura no Gotoku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+h1oOtvSykew1NTlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hanasakeru Seishounen",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+JOfGIpUjN-hhMTI5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hanazakari no Kimitachi e",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0DcajAlBrO5lNzQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hangyakusei Million Arthur",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UsJtIC0LBxRlZDRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hataraku Maou-sama",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/XffrfJPSza85N2Y5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hataraku Saibou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/64ndqK2XQ6JlZGQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hazure Skill Kinomi Master",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+li90HjJpUoBkYzZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hazurewaku no \"Joutai Ijou Skill\"",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DTSQG3UjLyZhNWEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Heika Watashi wo Wasurete Kudasai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B-9qTnrRXK05OWEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+v5nnqZ-41bozZDc5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hell's Paradise",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+P1_mDVeWtrUzM2Jh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "HELLSING SERIES",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9kRYW-ZvoLUyNmQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Hentai Ouji to Warawanai Neko",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+lfMBaUdlLtAyMjcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Heroic Age",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/nivVmyGS7co5MjVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+wcBLJM1QmcYyNWEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Heroman",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/hKA4mMxxHQM0MzAx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_H",
+      "status": "IMPORTED"
+    }
+  ]
+}

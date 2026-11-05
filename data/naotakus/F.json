@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: F"
+  ],
+  "counts": {
+    "total": 29,
+    "withChannels": 29,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "Failure Frame",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DTSQG3UjLyZhNWEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fairy Gone",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEk0byejrT70T3Gslw",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fairy Tail",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+oza1yA_lt_djYWNh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        },
+        {
+          "url": "https://t.me/+hOU5NPie3-U2MDk5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "False Memory",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+xZtlMcl46f9hZjcx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fangkai Nage Nuwu",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+rj67hGeMUSliZDUx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fantasy Bishoujo Juniku Ojisan to",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+31RsUgVPX-owNzRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "FARMAGIA",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IsuoZVPQJ1BiOWE5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fate Series",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Fate_Series_SubEsp",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fena Pirate Princess",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+s9GvN6h6i544YWJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fermat no Ryouri",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+QnwkVOEOq_owNjUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fight Ippatsu! Juden-chan!!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1lE4Wgmv_k01ZDJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fire Force",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/LW0b1Mj9BUsxODFh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "FLCL",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+dK937XzhctIzMjlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Flip Flappers",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/5Vrq3AuZ9dkzNThh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fog Hill of Five Elements",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IbLDLMCx_I1lOWZh",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Food Court de, Mata Ashita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VQM1Aum_bz42YjJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Free!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+H2Bbklo4OTIyN2E5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Freezing",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+XTfNJsnkzNM0ODU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Frieren",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+MbSZi0ztk51hZjQ5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fruits Basket",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/WOUig6399QSbKtJc",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fugou Keiji: Balance:Unlimited",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/761DRJUCaVtjOGVh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fugukan \"Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1kDEgQDrlMoxYWEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Full Metal Alchemist series",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B6_EsxB5wDtkZTdh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Full Metal Panic",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Up9Vo258aKti88E8",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fumetsu no Anata e",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/hvu4SDQULWxkYjlh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Futari Solo Camp",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VbT1yAJIsoQxZDZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yOfNoWghIEplYjZh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fuufu Ijou, Koibito Miman.",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Z4pGTQ5HSnU3MzQ5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Fuuka",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/WaGuRtVsYjQ2NGQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_F",
+      "status": "IMPORTED"
+    }
+  ]
+}

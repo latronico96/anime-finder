@@ -11,7 +11,10 @@
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate dev",
     "db:deploy": "prisma migrate deploy",
-    "db:seed": "prisma db seed"
+    "db:seed": "prisma db seed",
+    "catalog:split": "tsx scripts/split-naotakus.ts",
+    "catalog:process": "tsx scripts/catalog-naotakus.ts",
+    "catalog:import": "tsx scripts/import-naotakus.ts"
   },
   "dependencies": {
     "@next/env": "^16.4.3",

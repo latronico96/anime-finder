@@ -1,0 +1,2098 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "name": "ListaNaOtakus",
+    "telegramUrl": "https://t.me/ListaNaOtakus",
+    "description": "Catálogo completo extraído y corregido con enlaces de Telegram integrados."
+  },
+  "languageLegend": {
+    "JAPANESE_SUB": "Audio japonés con subtítulos en español",
+    "CHINESE_SUB": "Audio chino con subtítulos en español",
+    "LATINO": "Audio latino",
+    "CASTILIAN": "Audio castellano"
+  },
+  "notes": [
+    "Formato v2: cada entrada cuenta con sus canales e idiomas vinculados.",
+    "Enlaces restaurados directamente desde el registro Markdown fuente.",
+    "Archivo generado desde catalog.json. Sección: K"
+  ],
+  "counts": {
+    "total": 125,
+    "withChannels": 125,
+    "withoutChannelLink": 0
+  },
+  "entries": [
+    {
+      "title": "K-On!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+sYXjPabcaskwZTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "k Project",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0b1U5xrEpgdiMjlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kabaneri: La Fortaleza de Hierro",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YP6X5j_624s0MTcx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kabushiki Gaisha Magi Lumiere",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+wJ5Dr-rFNiE3MTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kage no Jitsuryokusha ni Naritakute!",
+      "languages": [
+        "JAPANESE_SUB",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+snw1iyKi1mlkNDMx",
+          "languages": [
+            "JAPANESE_SUB",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaguya sama love Is war",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/U1K5RGQrGttm1Wxp",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaifuku Jutsushi no Yarinaoshi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "http://t.me/KaifukuJutsushi_SubEs",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaijin kaihatsu-bu no kuroitsu-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NWrqY3Xmsq82YWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaiju No.8",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+f9NHYPXOZZZlNDAx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+gbdMz01aExM0OTMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaizoku Oujo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+s9GvN6h6i544YWJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kakegurui",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/kakeguruisubesp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kakegurui Latino",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEMJwFlEDVsPnZt2FQ",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kakuriyo no Yadomeshi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+p8Kg7L7dLjZlMGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kakkou no Iinazuke",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+9UwplIfQ_AEwYWFh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kakushite Makina-san!!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+WUhQWKnmdikzOGRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kami no Niwatsuki Kusunoki-tei",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_lmktxXje1hmNDdh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kami no Shizuku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+gyi9sOEWRoxjMjBh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kami no Tou",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AWDE6_n2lIZkMmUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kami nomi zo Shiru Sekai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cH6uASoCRrhlYTAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AptCp-VT0a41NzMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kamisama Hajimemashita",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yF7O41ZvPq43NzUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kamitsubaki-shi Kensetsuchuu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+tA_4XKihva1iNDYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kanan-sama wa Akumade Choroi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jMVVNhMZWz5jNTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kanchigai no Atelier Meister",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ZPmfJQyAwN5hMGVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kanojo mo kanojo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Fq9G34brVtE0NzBh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kanojo, Okarishimasu",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5TXS4jocatE0ZDkx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+gJj_13DasgxmM2Mx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kanokon",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/DCR6k51wKx4wNGJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6dFEkEZfL2M3NGJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+iz4yhwivXEAxZTA5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kao Ni La Zhanshen Xitong",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+lZpKdbPOqqswZjYx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaoru Hana wa Rin to Saku",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+SfFF-bRFwjw5YzEx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kara no Kyoukai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+EiM5E4XIPr80MTQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Karakai jouzu no takagi san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AO-wcNO1O6cxZTQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "KARAOKE IKO!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hiUQPuv2OsNkOTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Karneval",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+h93rR2y43Js5MTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Katainaka no Ossan",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DAYPu8Egqro5MTcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Katekyo Hitman Reborn!",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7zi4o0XtOiM5YTM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Katsugeki touken rambu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/nHzzfQ5GSMYxNTZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Katsute Kami Datta Kemono-tachi e",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEw-CPQoLr15FBRa9A",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kawaii dake ja Nai Shikimori-san",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B8sMub51cQpjZjYx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+SuxQzTIPsgMwOGRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kaze no Stigma",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/o_juMKVN42BjM2Rh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kekkai Sensen",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/xntV-Ga3UeE5OWU5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kekkon Surutte, Hontou Desu Ka?: 365 To The Wedding",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+UsE5z6gsOE45ZTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kekkon Yubiwa Monogatari",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+jdIxkghThP45OWIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kemono Jihen",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AA6zx64Gp3QwZDgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kemonozume",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+LH-fYcReqwIzNDUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kengan Ashura",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/AAAAAEdBHNDf5vQ_yIaHjA",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kenja no Deshi wo Nanoru Kenja",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1UWDNSQQ80kwM2Yx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kenja no Mago",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/i3540XFhEbExZWUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Keppeki Danshi! Aoyama-kun",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0fgWUr-WaRIwZjUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kidou Senshi Gundam 00",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+cBWKLU9MyUo0MjEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kijin Gentoushou",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B59WvCtXkrJlZWU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kikaijikake no Marie",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2sYU3YVM5nhjZDMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kikansha no Mahou wa Tokubetsu desu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NuB7YXg6mORkYTM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kill Ao",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+5AO3I0c-cDo5MTQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kill la Kill",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/_83LIpCF_RNiOTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kill me Baby",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/KMoFLzlk6j42MTg5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Killing Bites",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+G94hNZFQSuZiZDlh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimetsu No Yaiba",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NVV7z_QG8xgxOWQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        },
+        {
+          "url": "https://t.me/+yKYK-VKahcczOGUx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi ga Shinu made Koi wo Shitai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6ZKAXzj_TaRlYjgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi ni todoke",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/5QAnE1k1sS44NDRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+4X0vo_f_qP8wNzBh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi no na wa",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+e3ynBuIGH6Q5MzAx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi to Boku no Saigo no Senjou Arui",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+NUEVpw1QFiZlYjIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi to Koete Koi ni Naru",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+X-BPAqaI7C5kZjcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi wa Houkago Insomnia",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+CqXvotT1EuI4NTgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi wa Meido-sama",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YkzVPdj_vqMyNTJh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kimi wo Aisuru Ki wa Nai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+dmBXnq-gzblmMWE5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "King’s Raid: Ishi wo Tsugumono-tachi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+QQpcrdCayQU2ZTEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "KINGDOM",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FoESqgIViqk5OTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kino no Tabi: The Beautiful World",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+lk5bq-RNAT5iYjgx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kinoko Inu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+FuwXDDlw-9ljMWEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kinsou no Vermeil",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+8DUzwlzL2_BmYzMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kirei ni Shitemoraemasu ka.",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+dXLXAcPWSSQ5YWMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kisaki Kyouiku kara Nigetai Watashi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yXl_N1j9oV04NTkx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kiseijuu: Sei no Kakuritsu",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+6J2nwa2nWV1jNTYx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kishin Doji Zenki",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/dQ1dJTgdFtA2OTQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kishuku Gakkou no juliet",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/tcQCC3rLyzg1YmEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kiss×sis",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+1Wv0DLCEaYxmNzRh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kite",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ckPWhS-AuyE5NmMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kizetsu Yuusha to Ansatsu Hime",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B2fRHaIysk1lZTU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "KIZNAIVER",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2PP368vl6tg2MDQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+Wn3auN2_CtRjYjZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kobayashi-san Chi no Maid Dragon",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/Xt-UtxLfqX0xOTQ5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kodomo no jikan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IrHvnjiBd04wODAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koe no Katachi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+e3ynBuIGH6Q5MzAx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koi To Uso",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/KoiToUsooo",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koi to Yobu ni wa Kimochi Warui",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+TXGhRqGleRk0NGMx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koi wa Sekai Seifuku no Ato de",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+l6k9qRjvUZE4MWQx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kokkoku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/vQjZuq_GB01iNmM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_BUKBcTexykxNmM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kokoro Connect",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+B7YGtMCaT0E3MmZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Komi-san wa, Comyushou desu",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO",
+        "CASTILIAN"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+JNa6vwZLg9w5YmVh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO",
+            "CASTILIAN"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kono Kaisha ni Suki na Hito ga Imasu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+0zcEOz7ogo00YWQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Konohana Kitan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VK-tT57aI6M0MTIx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Konosuba!",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VK-tT57aI6M0MTIx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        },
+        {
+          "url": "https://t.me/+2_KnoZLs1vE1M2Zh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kono Subarashii Sekai ni Shukufuku",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2_KnoZLs1vE1M2Zh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kono Subarashii Sekai ni Shukufuku",
+      "languages": [
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+2_KnoZLs1vE1M2Zh",
+          "languages": [
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koori no Jouheki",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+3Cx7JAuMHVBhY2Qx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kore Kaite Shine",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+pQrizQEZmsNlYjUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koroshi Ai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+_T93OgTxYcs3YzQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kotoura-san",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/KI3xBCT9539hNTQx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koujo Denka no Kateikyoushi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+EpDXQ59G0YVjOTYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Koutetsujou no Kabaneri",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+YP6X5j_624s0MTcx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kubo-san wa Mob wo Yurusanai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+7EEFohhgCJU5YTU5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kumichou Musume to Sewagakari",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+AKiN-cnVCzk1YzEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kumo desu ga, Nani ka",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/j6wkX3mSMGRjNWM5",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kun Tun Tianxia Zhi Zhang Men Guilai",
+      "languages": [
+        "CHINESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+VhEOebwDnfphZGIx",
+          "languages": [
+            "CHINESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kunoichi Tsubaki No Mune No Uchi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+MuCHfM5F3Lg5ODUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kuro no Shoukanshi",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+K3q3NP9FmvVlMDUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+QPoVHK4N_B8xNGUx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kuroko no Basket",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+ySbAcbDxkP4zZWYx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kuroneko to Majo no Kyoushitsu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hIRJoOtpGkkwMjEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kuroshitsuji",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/BQjf8ZClhW43NWEx",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kusuriya no Hitorigoto",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+yM9_OKdbJg8xN2Fh",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kuusen Madoushi Kouhosei no Kyoukan",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/wqOppYnJTwE3NGE5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kuzu no Honkai",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+DRelcjz1KQ81ODJh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kyōkai no Kanata",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/_mAba34lkiZkNGFh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kyokou Suiri",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/Kyokou_Suiri_SubEsp",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kyoukai no Rinne",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/joinchat/bhXf7IlylVdmZDM5",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kyuuketsuhime Miyu",
+      "languages": [
+        "JAPANESE_SUB"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+IXn2dW9iFRhjZGZh",
+          "languages": [
+            "JAPANESE_SUB"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    },
+    {
+      "title": "Kyuuketsuki Sugu Shinu",
+      "languages": [
+        "JAPANESE_SUB",
+        "LATINO"
+      ],
+      "channels": [
+        {
+          "url": "https://t.me/+hf81aUGvZWFkODkx",
+          "languages": [
+            "JAPANESE_SUB",
+            "LATINO"
+          ]
+        }
+      ],
+      "sourceSection": "user_pasted_K",
+      "status": "IMPORTED"
+    }
+  ]
+}
